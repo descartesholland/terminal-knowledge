@@ -1,5 +1,9 @@
 *.class
 
+/player/test[0-9]*_test[0-9]*.txt
+/player/test[0-9]*_test[0-9]*-[0-9]*.txt
+/player/config.txt
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
