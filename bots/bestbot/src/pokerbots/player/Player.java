@@ -18,6 +18,10 @@ public class Player {
 	private final PrintWriter outStream;
 	private final BufferedReader inStream;
 
+	private boolean button;
+	private Card[] hand = new Card[4];
+	private int myBank,otherBank;
+	
 	public Player(PrintWriter output, BufferedReader input) {
 		this.outStream = output;
 		this.inStream = input;
@@ -34,12 +38,25 @@ public class Player {
 				System.out.println(input);
 				
 				String[] words = input.split(" ");
+				
+				
+				if ("NEWHAND".compareToIgnoreCase(words[0])==0) {
+					button = Boolean.getBoolean(words[2]);
+					for(int i=0;i<4;i++){
+						hand[i] = new Card(String.valueOf(words[3+i].charAt(0)),String.valueOf(words[3+i].charAt(1)));
+					}
+					myBank = Integer.parseInt(words[7]);
+					otherBank = Integer.parseInt(words[8]);
+				}
 				if ("GETACTION".compareToIgnoreCase(words[0]) == 0) {
 					// When appropriate, reply to the engine with a legal
 					// action.
 					// The engine will ignore all spurious packets you send.
 					// The engine will also check/fold for you if you return an
 					// illegal action.
+					int pot_size = Integer.parseInt(words[1]);
+					int num_board_cards = Integer.parseInt(words[2]);
+					Card[] board_cards = new Card[num_board_cards];
 					outStream.println("CHECK");
 				} else if ("REQUESTKEYVALUES".compareToIgnoreCase(words[0]) == 0) {
 					// At the end, engine will allow bot to send key/value pairs to store.
