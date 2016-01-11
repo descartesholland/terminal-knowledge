@@ -55,6 +55,7 @@ public class Player {
 					// The engine will also check/fold for you if you return an
 					// illegal action.
 					int pot_size = Integer.parseInt(words[1]);
+					int max_bet = 3*pot_size;
 					int num_board_cards = Integer.parseInt(words[2]);
 					Card[] board_cards = new Card[num_board_cards];
 					outStream.println("CHECK");
