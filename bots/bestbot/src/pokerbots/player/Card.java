@@ -9,25 +9,30 @@ public class Card {
 		suit = s;
 		getCardValue();
 	}
+	
+	public String toString(){
+		return rank+suit;
+	}
+	
 	private void getCardValue(){
 		try{
 			int val = Integer.parseInt(rank);
 			value = val;
 		}
-		catch(Error e){
-			if(suit == "T"){
+		catch(NumberFormatException e){
+			if(rank == "T"){
 				value = 10;
 			}
-			else if(suit == "J"){
+			else if(rank == "J"){
 				value = 11;
 			}
-			else if(suit == "Q"){
+			else if(rank == "Q"){
 				value = 12;
 			}
-			else if(suit == "K"){
+			else if(rank == "K"){
 				value = 13;
 			}
-			else if(suit == "A"){
+			else if(rank == "A"){
 				value = 14;
 			}
 		}
