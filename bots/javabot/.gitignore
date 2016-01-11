@@ -10,3 +10,4 @@
 
 # SCONS
 *.dblite
+/bin/

@@ -33,15 +33,15 @@ public class Player {
 				// from the engine and act on it.
 				System.out.println(input);
 				
-				String word = input.split(" ")[0];
-				if ("GETACTION".compareToIgnoreCase(word) == 0) {
+				String[] words = input.split(" ");
+				if ("GETACTION".compareToIgnoreCase(words[0]) == 0) {
 					// When appropriate, reply to the engine with a legal
 					// action.
 					// The engine will ignore all spurious packets you send.
 					// The engine will also check/fold for you if you return an
 					// illegal action.
 					outStream.println("CHECK");
-				} else if ("REQUESTKEYVALUES".compareToIgnoreCase(word) == 0) {
+				} else if ("REQUESTKEYVALUES".compareToIgnoreCase(words[0]) == 0) {
 					// At the end, engine will allow bot to send key/value pairs to store.
 					// FINISH indicates no more to store.
 					outStream.println("FINISH");
