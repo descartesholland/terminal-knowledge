@@ -23,6 +23,8 @@ public class Player {
 	private boolean button;
 	private Card[] hand = new Card[4];
 	private int myBank,otherBank;
+	
+	private float confidence;
 
 	public Player(PrintWriter output, BufferedReader input) {
 		this.outStream = output;
@@ -33,6 +35,19 @@ public class Player {
 		return new Card(String.valueOf(s.charAt(0)),String.valueOf(s.charAt(1)));
 	}
 
+	private void getConfidenceFromHand(){
+		float temp = 0;
+		for (int i = 0; i < hand.length; i++) {
+			  for (int j = i+1; j < hand.length; j++) {
+			    if(hand[i].rank.equals(hand[j].rank)){temp +=hand[i].value*2;}
+			    if(hand[i].suit.equals(hand[j].suit)){temp +=10;
+			    	System.out.println("SameSuitFound");}
+			  }
+		}
+		if(button==true){temp+=15;}
+		confidence = temp;
+	}
+	
 	public void run() {
 		String input;
 		try {
@@ -53,6 +68,8 @@ public class Player {
 					}
 					myBank = Integer.parseInt(words[7]);
 					otherBank = Integer.parseInt(words[8]);
+					getConfidenceFromHand();
+					System.out.println(confidence);
 				}
 				if ("GETACTION".compareToIgnoreCase(words[0]) == 0) {
 					// When appropriate, reply to the engine with a legal
@@ -60,6 +77,7 @@ public class Player {
 					// The engine will ignore all spurious packets you send.
 					// The engine will also check/fold for you if you return an
 					// illegal action.
+					System.out.println(confidence);
 					int pot_size = Integer.parseInt(words[1]);
 					int num_board_cards = Integer.parseInt(words[2]);
 					Card[] board_cards = new Card[num_board_cards];
@@ -93,9 +111,16 @@ public class Player {
 							}
 						}
 					}
-					Random r = new Random();
-					int result = r.nextInt(actions.size());
-					outStream.println(actions.get(result));
+					String out;
+					if(confidence>45){out = actions.remove(actions.size()-1);}
+					else if(confidence>25){out = actions.remove(actions.size()-2);}
+					else{
+						Random r = new Random();
+						int result = r.nextInt(actions.size());
+						out = actions.get(result);
+					}
+					outStream.println(out);
+					
 				} else if ("REQUESTKEYVALUES".compareToIgnoreCase(words[0]) == 0) {
 					// At the end, engine will allow bot to send key/value pairs to store.
 					// FINISH indicates no more to store.
