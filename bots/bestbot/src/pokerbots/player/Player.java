@@ -59,19 +59,21 @@ public class Player {
 				System.out.println(input);
 
 				String[] words = input.split(" ");
-
+				Board myBoard = new Board();
 
 				if ("NEWHAND".compareToIgnoreCase(words[0])==0) {
 					button = Boolean.getBoolean(words[2]);
 					for(int i=0;i<4;i++){
-						hand[i] = getCardFromString(words[3+i]);
+						Card hand_card = getCardFromString(words[3+i]);
+						hand[i] = hand_card;
+						myBoard.addCard(hand_card);
 					}
 					myBank = Integer.parseInt(words[7]);
 					otherBank = Integer.parseInt(words[8]);
 					getConfidenceFromHand();
 					System.out.println(confidence);
 				}
-				if ("GETACTION".compareToIgnoreCase(words[0]) == 0) {
+				else if ("GETACTION".compareToIgnoreCase(words[0]) == 0) {
 					// When appropriate, reply to the engine with a legal
 					// action.
 					// The engine will ignore all spurious packets you send.
@@ -85,7 +87,7 @@ public class Player {
 					int index = 3;
 					if(num_board_cards!=0){
 						for(int i=0;i<num_board_cards;i++){
-							board_cards[i] = getCardFromString(words[index+i]);
+							myBoard.addCard(getCardFromString(words[index+i]));
 						}
 						index += num_board_cards;
 					}
@@ -121,7 +123,11 @@ public class Player {
 					}
 					outStream.println(out);
 					
-				} else if ("REQUESTKEYVALUES".compareToIgnoreCase(words[0]) == 0) {
+				} 
+				else if ("HANDOVER".compareToIgnoreCase(words[0])==0){
+					myBoard = new Board();
+				}
+				else if ("REQUESTKEYVALUES".compareToIgnoreCase(words[0]) == 0) {
 					// At the end, engine will allow bot to send key/value pairs to store.
 					// FINISH indicates no more to store.
 					outStream.println("FINISH");

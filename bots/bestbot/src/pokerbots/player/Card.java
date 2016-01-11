@@ -3,7 +3,7 @@ package pokerbots.player;
 public class Card {
 	public String rank, suit;
 	public int value;
-	
+
 	public Card(String r, String s){
 		rank = r;
 		suit = s;
@@ -14,6 +14,11 @@ public class Card {
 		return rank+suit;
 	}
 	
+	//Values:
+	// 2 = 2
+	// 3 = 3 ...
+	// K = 13
+	// A = 14
 	private void getCardValue(){
 		try{
 			int val = Integer.parseInt(rank);
