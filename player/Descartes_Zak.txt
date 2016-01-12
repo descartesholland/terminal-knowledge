@@ -2,899 +2,834 @@
 Hand #1, Descartes (0), Zak (0)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [9s 3c 4s Jh]
-Dealt to Zak [Th Jd Kh Qh]
-Descartes raises to 4
-Zak raises to 12
-Descartes calls
-*** FLOP *** (24) [5d 7h Tc]
-Zak checks
-Descartes checks
-*** TURN *** (24) [5d 7h Tc] [2h]
-Zak checks
-Descartes bets 22
-Zak raises to 90
-Descartes calls
-*** RIVER *** (204) [5d 7h Tc 2h] [8d]
-Zak checks
-Descartes bets 61
-Zak raises to 98
-Descartes calls
-Descartes shows [9s 3c 4s Jh]
-Zak shows [Th Jd Kh Qh]
-Descartes wins the pot (400)
-
-Hand #2, Zak (-200), Descartes (200)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Kd 5s Ac Kc]
-Dealt to Descartes [7h As Tc 8c]
-Zak calls
-Descartes raises to 4
-Zak raises to 12
-Descartes raises to 25
-Zak raises to 75
-Descartes folds
-Uncalled bet of 50 returned to Zak
-Zak wins the pot (50)
-
-Hand #3, Descartes (175), Zak (-175)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Td Jc 2h 4s]
-Dealt to Zak [Tc Jh 6h Kc]
-Descartes raises to 5
-Zak raises to 15
-Descartes folds
-Uncalled bet of 10 returned to Zak
-Zak wins the pot (10)
-
-Hand #4, Zak (-170), Descartes (170)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [5c 6s 7d 9s]
-Dealt to Descartes [4s 5h Tc 9d]
-Zak calls
-Descartes checks
-*** FLOP *** (4) [2d Qh 3s]
-Descartes bets 2
-Zak raises to 10
-Descartes calls
-*** TURN *** (24) [2d Qh 3s] [6d]
-Descartes checks
-Zak checks
-*** RIVER *** (24) [2d Qh 3s 6d] [3d]
-Descartes bets 21
-Zak raises to 87
-Descartes raises to 156
-Zak raises to 188
-Descartes calls
-Zak shows [5c 6s 7d 9s]
-Descartes shows [4s 5h Tc 9d]
-Descartes wins the pot (400)
-
-Hand #5, Descartes (370), Zak (-370)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [7s 3s 6c Kh]
-Dealt to Zak [4c 2c Ah Ac]
-Descartes calls
-Zak raises to 6
-Descartes raises to 14
-Zak raises to 42
-Descartes folds
-Uncalled bet of 28 returned to Zak
-Zak wins the pot (28)
-
-Hand #6, Zak (-356), Descartes (356)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Ts 8c Ac 8d]
-Dealt to Descartes [4s 2d Ks 5c]
-Zak raises to 6
-Descartes folds
-Uncalled bet of 4 returned to Zak
-Zak wins the pot (4)
-
-Hand #7, Descartes (354), Zak (-354)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [4c Qh 2h Ac]
-Dealt to Zak [3h 3c Qd 7d]
-Descartes raises to 5
-Zak raises to 15
-Descartes folds
-Uncalled bet of 10 returned to Zak
-Zak wins the pot (10)
-
-Hand #8, Zak (-349), Descartes (349)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [8h 9c Ah 4c]
-Dealt to Descartes [7c 4h 7d Ad]
-Zak raises to 6
-Descartes calls
-*** FLOP *** (12) [Kc 3c Jh]
-Descartes checks
-Zak checks
-*** TURN *** (12) [Kc 3c Jh] [5c]
-Descartes checks
-Zak checks
-*** RIVER *** (12) [Kc 3c Jh 5c] [Js]
-Descartes checks
-Zak checks
-Zak shows [8h 9c Ah 4c]
-Descartes shows [7c 4h 7d Ad]
-Zak wins the pot (12)
-
-Hand #9, Descartes (343), Zak (-343)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [As 5d Ac Kh]
-Dealt to Zak [Th Kd 7d 2s]
+Dealt to Descartes [Ks 7s 3d Qs]
+Dealt to Zak [3s 8d 8s Kh]
 Descartes folds
 Zak wins the pot (3)
 
-Hand #10, Zak (-342), Descartes (342)
+Hand #2, Zak (1), Descartes (-1)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [5h Qs Qd 9c]
-Dealt to Descartes [Tc 7h Kh 9d]
+Dealt to Zak [Kh Jc 7c 6c]
+Dealt to Descartes [Ah Jh Ac 5h]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #3, Descartes (0), Zak (0)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Ks Tc Ah Th]
+Dealt to Zak [Jc 7c 2c 9s]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #4, Zak (1), Descartes (-1)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [3s Th Ad 8h]
+Dealt to Descartes [4h 8c Jh Td]
 Zak raises to 4
 Descartes calls
-*** FLOP *** (8) [4d 3c 7s]
+*** FLOP *** (8) [9s Qs 2d]
+Descartes bets 4
+Zak raises to 20
+Descartes raises to 39
+Zak raises to 125
+Descartes calls
+*** TURN *** (258) [9s Qs 2d] [3h]
+Descartes bets 18
+Zak raises to 71
+Descartes folds
+Uncalled bet of 53 returned to Zak
+Zak wins the pot (294)
+
+Hand #5, Descartes (-148), Zak (148)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [2c 2s Kh 5d]
+Dealt to Zak [4c Th 6c 3c]
+Descartes raises to 5
+Zak raises to 15
+Descartes folds
+Uncalled bet of 10 returned to Zak
+Zak wins the pot (10)
+
+Hand #6, Zak (153), Descartes (-153)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [2h Kc 6s Qh]
+Dealt to Descartes [Tc 6h 4d 3c]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #7, Descartes (-152), Zak (152)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Jc 2s 7s Td]
+Dealt to Zak [Kc 4c 2c 8h]
+Descartes calls
+Zak checks
+*** FLOP *** (4) [As 3h 5s]
+Zak checks
 Descartes bets 3
-Zak raises to 17
+Zak raises to 13
+Descartes raises to 42
+Zak raises to 130
 Descartes calls
-*** TURN *** (42) [4d 3c 7s] [7c]
-Descartes bets 5
-Zak raises to 57
-Descartes calls
-*** RIVER *** (156) [4d 3c 7s 7c] [6h]
-Descartes checks
+*** TURN *** (264) [As 3h 5s] [Kd]
 Zak checks
-Zak shows [5h Qs Qd 9c]
-Descartes shows [Tc 7h Kh 9d]
-Descartes wins the pot (156)
+Descartes checks
+*** RIVER *** (264) [As 3h 5s Kd] [4s]
+Zak checks
+Descartes checks
+Descartes shows [Jc 2s 7s Td]
+Zak shows [Kc 4c 2c 8h]
+Descartes wins the pot (264)
 
-Hand #11, Descartes (420), Zak (-420)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [2h 8s 5h 9d]
-Dealt to Zak [Qh 6h Jc Ts]
-Descartes calls
-Zak checks
-*** FLOP *** (4) [Qc Td Qs]
-Zak checks
-Descartes checks
-*** TURN *** (4) [Qc Td Qs] [8c]
-Zak checks
-Descartes checks
-*** RIVER *** (4) [Qc Td Qs 8c] [5c]
-Zak checks
-Descartes checks
-Descartes shows [2h 8s 5h 9d]
-Zak shows [Qh 6h Jc Ts]
-Zak wins the pot (4)
-
-Hand #12, Zak (-418), Descartes (418)
+Hand #8, Zak (20), Descartes (-20)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [Kc 4d Kh Jd]
-Dealt to Descartes [6s Qc 4s Ts]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #13, Descartes (419), Zak (-419)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [8d 2d Qd 8h]
-Dealt to Zak [6c 4c 5h 7c]
-Descartes raises to 4
-Zak raises to 12
-Descartes raises to 23
-Zak raises to 69
-Descartes raises to 115
-Zak raises to 200
+Dealt to Zak [Ks Qs 3d 3c]
+Dealt to Descartes [Qd Jd 2h Kd]
+Zak calls
+Descartes raises to 5
+Zak raises to 15
+Descartes raises to 34
+Zak raises to 102
 Descartes folds
-Uncalled bet of 85 returned to Zak
-Zak wins the pot (230)
+Uncalled bet of 68 returned to Zak
+Zak wins the pot (68)
 
-Hand #14, Zak (-304), Descartes (304)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [4s 5c 4c 6h]
-Dealt to Descartes [6s Td 2d 8s]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #15, Descartes (305), Zak (-305)
+Hand #9, Descartes (-54), Zak (54)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [3c 8d Js 3h]
-Dealt to Zak [Qd 6c 9d 2s]
+Dealt to Descartes [Jc 4c 4h Kd]
+Dealt to Zak [Jd 3d 5s Qs]
 Descartes folds
 Zak wins the pot (3)
 
-Hand #16, Zak (-304), Descartes (304)
+Hand #10, Zak (55), Descartes (-55)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [2c 8h 5d 8s]
-Dealt to Descartes [7h Jh Ac 4h]
+Dealt to Zak [2s 4h 4d Jh]
+Dealt to Descartes [Qd 7c 4c 6d]
 Zak calls
 Descartes checks
-*** FLOP *** (4) [5s Qh 6s]
+*** FLOP *** (4) [5h 3c Th]
 Descartes checks
 Zak checks
-*** TURN *** (4) [5s Qh 6s] [3d]
-Descartes checks
-Zak checks
-*** RIVER *** (4) [5s Qh 6s 3d] [3s]
-Descartes checks
-Zak checks
-Zak shows [2c 8h 5d 8s]
-Descartes shows [7h Jh Ac 4h]
-Descartes wins the pot (4)
-
-Hand #17, Descartes (306), Zak (-306)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Qh 9h Qd 2d]
-Dealt to Zak [Js 7h 4h Td]
-Descartes calls
-Zak raises to 4
-Descartes raises to 9
-Zak raises to 27
-Descartes raises to 60
-Zak raises to 180
-Descartes folds
-Uncalled bet of 120 returned to Zak
-Zak wins the pot (120)
-
-Hand #18, Zak (-246), Descartes (246)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [2h Ks 9c Th]
-Dealt to Descartes [7s Kd Ad 4h]
-Zak calls
-Descartes raises to 5
-Zak raises to 15
+*** TURN *** (4) [5h 3c Th] [Js]
+Descartes bets 3
+Zak raises to 13
 Descartes raises to 29
-Zak raises to 87
-Descartes raises to 190
-Zak raises to 200
+Zak raises to 91
 Descartes calls
-*** FLOP *** (400) [3s Js Td]
-*** TURN *** (400) [3s Js Td] [3d]
-*** RIVER *** (400) [3s Js Td 3d] [8s]
-Zak shows [2h Ks 9c Th]
-Descartes shows [7s Kd Ad 4h]
-Zak wins the pot (400)
+*** RIVER *** (186) [5h 3c Th Js] [2c]
+Descartes bets 31
+Zak raises to 107
+Descartes calls
+Zak shows [2s 4h 4d Jh]
+Descartes shows [Qd 7c 4c 6d]
+Descartes wins the pot (400)
 
-Hand #19, Descartes (46), Zak (-46)
+Hand #11, Descartes (145), Zak (-145)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [Qh Jd Jh 4h]
-Dealt to Zak [2h 6h Qs 9d]
-Descartes raises to 5
-Zak raises to 15
+Dealt to Descartes [2s 5h Ts 4c]
+Dealt to Zak [6c 5d 9c 6s]
+Descartes raises to 4
+Zak raises to 12
 Descartes folds
-Uncalled bet of 10 returned to Zak
-Zak wins the pot (10)
+Uncalled bet of 8 returned to Zak
+Zak wins the pot (8)
 
-Hand #20, Zak (-41), Descartes (41)
+Hand #12, Zak (-141), Descartes (141)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [Kc 9h 3d 6d]
-Dealt to Descartes [Jc 2s Jh Qd]
+Dealt to Zak [3c 7s 6s 3d]
+Dealt to Descartes [9c 6h 5c 3s]
 Zak raises to 4
 Descartes raises to 7
 Zak raises to 21
-Descartes raises to 48
-Zak raises to 144
-Descartes raises to 200
-Zak calls
-*** FLOP *** (400) [7d 9s Js]
-*** TURN *** (400) [7d 9s Js] [Jd]
-*** RIVER *** (400) [7d 9s Js Jd] [Kd]
-Zak shows [Kc 9h 3d 6d]
-Descartes shows [Jc 2s Jh Qd]
-Descartes wins the pot (400)
+Descartes calls
+*** FLOP *** (42) [Td Jd 4s]
+Descartes bets 18
+Zak raises to 96
+Descartes calls
+*** TURN *** (234) [Td Jd 4s] [8d]
+Descartes checks
+Zak checks
+*** RIVER *** (234) [Td Jd 4s 8d] [4d]
+Descartes checks
+Zak checks
+Zak shows [3c 7s 6s 3d]
+Descartes shows [9c 6h 5c 3s]
+Zak wins the pot (234)
 
-Hand #21, Descartes (241), Zak (-241)
+Hand #13, Descartes (24), Zak (-24)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [Jd 2d 7c As]
-Dealt to Zak [6c 3s 7h 3d]
+Dealt to Descartes [8d 6c Ad Jc]
+Dealt to Zak [7c 3d 5d 5c]
 Descartes raises to 4
 Zak raises to 12
-Descartes folds
-Uncalled bet of 8 returned to Zak
-Zak wins the pot (8)
+Descartes raises to 31
+Zak raises to 93
+Descartes raises to 156
+Zak raises to 200
+Descartes calls
+*** FLOP *** (400) [9h Js 5s]
+*** TURN *** (400) [9h Js 5s] [4d]
+*** RIVER *** (400) [9h Js 5s 4d] [8c]
+Descartes shows [8d 6c Ad Jc]
+Zak shows [7c 3d 5d 5c]
+Zak wins the pot (400)
 
-Hand #22, Zak (-237), Descartes (237)
+Hand #14, Zak (176), Descartes (-176)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [Qs Ks 4d Tc]
-Dealt to Descartes [4c Qc Td 5c]
-Zak calls
-Descartes raises to 5
-Zak raises to 15
-Descartes raises to 26
-Zak raises to 78
-Descartes folds
-Uncalled bet of 52 returned to Zak
-Zak wins the pot (52)
+Dealt to Zak [Kc 7c As 4d]
+Dealt to Descartes [8h 8s 6s Jh]
+Zak folds
+Descartes wins the pot (3)
 
-Hand #23, Descartes (211), Zak (-211)
+Hand #15, Descartes (-175), Zak (175)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [8h 6h 9s Th]
-Dealt to Zak [Td 8c 6d Qs]
-Descartes raises to 4
-Zak raises to 12
+Dealt to Descartes [6h 6d 5s 6s]
+Dealt to Zak [2h Qd Ah 3h]
 Descartes folds
-Uncalled bet of 8 returned to Zak
-Zak wins the pot (8)
+Zak wins the pot (3)
 
-Hand #24, Zak (-207), Descartes (207)
+Hand #16, Zak (176), Descartes (-176)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [8s 2d 7s 3s]
-Dealt to Descartes [6c Jd 5s 8c]
+Dealt to Zak [Qc 8s 8d Kh]
+Dealt to Descartes [Ts 2d 2c 5s]
 Zak raises to 6
 Descartes folds
 Uncalled bet of 4 returned to Zak
 Zak wins the pot (4)
 
-Hand #25, Descartes (205), Zak (-205)
+Hand #17, Descartes (-178), Zak (178)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [8h Kh 7c Ac]
-Dealt to Zak [Ah Kc Jc 5d]
+Dealt to Descartes [5h 5s 7c 4d]
+Dealt to Zak [6c Ad 2d 4s]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #18, Zak (179), Descartes (-179)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [2s 7d Th 5s]
+Dealt to Descartes [Jc 3c Jd 5c]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #19, Descartes (-178), Zak (178)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Jc 6s 7s 2h]
+Dealt to Zak [Ac 8d 2c Kh]
+Descartes raises to 4
+Zak raises to 12
+Descartes folds
+Uncalled bet of 8 returned to Zak
+Zak wins the pot (8)
+
+Hand #20, Zak (182), Descartes (-182)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Kd 5h Ks 8s]
+Dealt to Descartes [2d 3d Tc 4d]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #21, Descartes (-181), Zak (181)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [2c Qh 6c 3c]
+Dealt to Zak [Kh Ks 7s Qd]
+Descartes calls
+Zak checks
+*** FLOP *** (4) [2s Td 4h]
+Zak checks
+Descartes bets 2
+Zak raises to 10
+Descartes folds
+Uncalled bet of 8 returned to Zak
+Zak wins the pot (8)
+
+Hand #22, Zak (185), Descartes (-185)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [6c 8s As Ac]
+Dealt to Descartes [6s Td 4h Qs]
+Zak raises to 4
+Descartes folds
+Uncalled bet of 2 returned to Zak
+Zak wins the pot (4)
+
+Hand #23, Descartes (-187), Zak (187)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Kc Ts Qd 2s]
+Dealt to Zak [7h 8d 7c Jd]
+Descartes calls
+Zak raises to 4
+Descartes calls
+*** FLOP *** (8) [4s Ac 3s]
+Zak checks
+Descartes bets 5
+Zak raises to 23
+Descartes folds
+Uncalled bet of 18 returned to Zak
+Zak wins the pot (18)
+
+Hand #24, Zak (196), Descartes (-196)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [8c Ad 9h Ac]
+Dealt to Descartes [2c Kd Js 8h]
+Zak raises to 4
+Descartes calls
+*** FLOP *** (8) [Ks Jd 7d]
+Descartes bets 5
+Zak raises to 23
+Descartes raises to 70
+Zak raises to 196
+Descartes calls
+*** TURN *** (400) [Ks Jd 7d] [8s]
+*** RIVER *** (400) [Ks Jd 7d 8s] [4d]
+Zak shows [8c Ad 9h Ac]
+Descartes shows [2c Kd Js 8h]
+Descartes wins the pot (400)
+
+Hand #25, Descartes (4), Zak (-4)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [8d Kc 9c 3s]
+Dealt to Zak [Th Qh 2h Td]
+Descartes raises to 5
+Zak raises to 15
+Descartes raises to 43
+Zak raises to 129
+Descartes folds
+Uncalled bet of 86 returned to Zak
+Zak wins the pot (86)
+
+Hand #26, Zak (39), Descartes (-39)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Js Kh 7h 9d]
+Dealt to Descartes [Ks 6d Th Ts]
+Zak raises to 4
+Descartes raises to 10
+Zak raises to 30
+Descartes raises to 62
+Zak raises to 186
+Descartes raises to 200
+Zak calls
+*** FLOP *** (400) [5h 6c Td]
+*** TURN *** (400) [5h 6c Td] [3c]
+*** RIVER *** (400) [5h 6c Td 3c] [5c]
+Zak shows [Js Kh 7h 9d]
+Descartes shows [Ks 6d Th Ts]
+Descartes wins the pot (400)
+
+Hand #27, Descartes (161), Zak (-161)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [4h Ts 9h 2h]
+Dealt to Zak [8h 8s Tc 5d]
+Descartes calls
+Zak raises to 4
+Descartes folds
+Uncalled bet of 2 returned to Zak
+Zak wins the pot (4)
+
+Hand #28, Zak (-159), Descartes (159)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [9s Ad Jc 5c]
+Dealt to Descartes [Ks 6c 7d 6d]
+Zak raises to 4
+Descartes calls
+*** FLOP *** (8) [6s Ac 5s]
+Descartes checks
+Zak checks
+*** TURN *** (8) [6s Ac 5s] [Jd]
+Descartes bets 6
+Zak raises to 26
+Descartes calls
+*** RIVER *** (60) [6s Ac 5s Jd] [Js]
+Descartes checks
+Zak checks
+Zak shows [9s Ad Jc 5c]
+Descartes shows [Ks 6c 7d 6d]
+Zak wins the pot (60)
+
+Hand #29, Descartes (129), Zak (-129)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [8s 2h Kd Ah]
+Dealt to Zak [3h 5c 3c 7c]
+Descartes calls
+Zak raises to 4
+Descartes folds
+Uncalled bet of 2 returned to Zak
+Zak wins the pot (4)
+
+Hand #30, Zak (-127), Descartes (127)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Tc 7s Ah 8h]
+Dealt to Descartes [3d 6d 7d Jh]
+Zak calls
+Descartes checks
+*** FLOP *** (4) [Jd Kc Th]
+Descartes checks
+Zak checks
+*** TURN *** (4) [Jd Kc Th] [Kd]
+Descartes bets 2
+Zak raises to 10
+Descartes raises to 21
+Zak raises to 67
+Descartes calls
+*** RIVER *** (138) [Jd Kc Th Kd] [2s]
+Descartes bets 123
+Zak raises to 131
+Descartes folds
+Uncalled bet of 8 returned to Zak
+Zak wins the pot (384)
+
+Hand #31, Descartes (-65), Zak (65)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Ah 3h Kh 6d]
+Dealt to Zak [7c Th Qs 5s]
 Descartes raises to 5
 Zak raises to 15
 Descartes folds
 Uncalled bet of 10 returned to Zak
 Zak wins the pot (10)
 
-Hand #26, Zak (-200), Descartes (200)
+Hand #32, Zak (70), Descartes (-70)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [7c 5s Qd Td]
-Dealt to Descartes [6s 5d Jd Qs]
-Zak calls
-Descartes raises to 5
-Zak raises to 15
-Descartes raises to 28
-Zak raises to 84
-Descartes folds
-Uncalled bet of 56 returned to Zak
-Zak wins the pot (56)
+Dealt to Zak [3c 7c 6c 5h]
+Dealt to Descartes [Qc Th 9s Kh]
+Zak folds
+Descartes wins the pot (3)
 
-Hand #27, Descartes (172), Zak (-172)
+Hand #33, Descartes (-69), Zak (69)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [Kc Jh Qh Qs]
-Dealt to Zak [Ad 9c Jc 4c]
+Dealt to Descartes [Td 9s 6d 3h]
+Dealt to Zak [9d Jh Js Qc]
+Descartes calls
+Zak checks
+*** FLOP *** (4) [Jd 8s Tc]
+Zak checks
+Descartes checks
+*** TURN *** (4) [Jd 8s Tc] [Ac]
+Zak checks
+Descartes checks
+*** RIVER *** (4) [Jd 8s Tc Ac] [7c]
+Zak checks
+Descartes bets 2
+Zak raises to 10
+Descartes folds
+Uncalled bet of 8 returned to Zak
+Zak wins the pot (8)
+
+Hand #34, Zak (73), Descartes (-73)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [7d 8s 3c 9c]
+Dealt to Descartes [5h Ad 8h Ah]
+Zak raises to 4
+Descartes raises to 9
+Zak raises to 27
+Descartes raises to 74
+Zak raises to 200
+Descartes calls
+*** FLOP *** (400) [2s 6s Jc]
+*** TURN *** (400) [2s 6s Jc] [8c]
+*** RIVER *** (400) [2s 6s Jc 8c] [8d]
+Zak shows [7d 8s 3c 9c]
+Descartes shows [5h Ad 8h Ah]
+Descartes wins the pot (400)
+
+Hand #35, Descartes (127), Zak (-127)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Jd 6c 3c Ad]
+Dealt to Zak [Js 3d 7s Td]
+Descartes calls
+Zak raises to 6
+Descartes folds
+Uncalled bet of 4 returned to Zak
+Zak wins the pot (4)
+
+Hand #36, Zak (-125), Descartes (125)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [2h 2c 6d Jd]
+Dealt to Descartes [5c Ts 3s Jc]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #37, Descartes (126), Zak (-126)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Kd 3h 4s Ah]
+Dealt to Zak [6h 9s Ad Qs]
+Descartes raises to 5
+Zak raises to 15
+Descartes calls
+*** FLOP *** (30) [4d 8d 2c]
+Zak checks
+Descartes bets 20
+Zak raises to 90
+Descartes calls
+*** TURN *** (210) [4d 8d 2c] [8h]
+Zak checks
+Descartes bets 73
+Zak raises to 95
+Descartes calls
+*** RIVER *** (400) [4d 8d 2c 8h] [Ks]
+Descartes shows [Kd 3h 4s Ah]
+Zak shows [6h 9s Ad Qs]
+Descartes wins the pot (400)
+
+Hand #38, Zak (-326), Descartes (326)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Th 4d 6d Kc]
+Dealt to Descartes [Td 8d 4c 5d]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #39, Descartes (327), Zak (-327)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [2c Js 9s 5h]
+Dealt to Zak [8s 4h 3h 6d]
+Descartes calls
+Zak raises to 4
+Descartes folds
+Uncalled bet of 2 returned to Zak
+Zak wins the pot (4)
+
+Hand #40, Zak (-325), Descartes (325)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [4c 3c 5d Ad]
+Dealt to Descartes [5s 7s Ah 9s]
+Zak raises to 4
+Descartes calls
+*** FLOP *** (8) [Ts 2s 9d]
+Descartes checks
+Zak checks
+*** TURN *** (8) [Ts 2s 9d] [Qh]
+Descartes checks
+Zak checks
+*** RIVER *** (8) [Ts 2s 9d Qh] [2c]
+Descartes bets 6
+Zak raises to 26
+Descartes raises to 72
+Zak raises to 196
+Descartes calls
+Zak shows [4c 3c 5d Ad]
+Descartes shows [5s 7s Ah 9s]
+Descartes wins the pot (400)
+
+Hand #41, Descartes (525), Zak (-525)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Qh Ad 6c Jh]
+Dealt to Zak [5s 8s 4d 2s]
+Descartes raises to 4
+Zak raises to 12
+Descartes calls
+*** FLOP *** (24) [Td 8h As]
+Zak checks
+Descartes checks
+*** TURN *** (24) [Td 8h As] [6h]
+Zak checks
+Descartes checks
+*** RIVER *** (24) [Td 8h As 6h] [7h]
+Zak checks
+Descartes checks
+Descartes shows [Qh Ad 6c Jh]
+Zak shows [5s 8s 4d 2s]
+Descartes wins the pot (24)
+
+Hand #42, Zak (-537), Descartes (537)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Kd Ad 7d 7s]
+Dealt to Descartes [9h 2d 3d Kh]
+Zak raises to 6
+Descartes calls
+*** FLOP *** (12) [8h 7h Qs]
+Descartes bets 3
+Zak raises to 21
+Descartes calls
+*** TURN *** (54) [8h 7h Qs] [6d]
+Descartes checks
+Zak checks
+*** RIVER *** (54) [8h 7h Qs 6d] [2h]
+Descartes checks
+Zak checks
+Zak shows [Kd Ad 7d 7s]
+Descartes shows [9h 2d 3d Kh]
+Descartes wins the pot (54)
+
+Hand #43, Descartes (564), Zak (-564)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [2d 8c 7s 8d]
+Dealt to Zak [Ah Qs 4s Tc]
+Descartes calls
+Zak raises to 4
+Descartes folds
+Uncalled bet of 2 returned to Zak
+Zak wins the pot (4)
+
+Hand #44, Zak (-562), Descartes (562)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [9c Js Jh 2d]
+Dealt to Descartes [4d 6h 2c 9h]
+Zak raises to 4
+Descartes calls
+*** FLOP *** (8) [Ac 7h 6d]
+Descartes checks
+Zak checks
+*** TURN *** (8) [Ac 7h 6d] [5h]
+Descartes bets 5
+Zak raises to 23
+Descartes folds
+Uncalled bet of 18 returned to Zak
+Zak wins the pot (18)
+
+Hand #45, Descartes (553), Zak (-553)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Td 2h 9s Qs]
+Dealt to Zak [Tc 7d Jh 8d]
 Descartes folds
 Zak wins the pot (3)
 
-Hand #28, Zak (-171), Descartes (171)
+Hand #46, Zak (-552), Descartes (552)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [Qh 6h Ah Kc]
-Dealt to Descartes [9h 7d Ad 6s]
+Dealt to Zak [Qc Ah 7c 6c]
+Dealt to Descartes [2c Ts Th 6s]
 Zak raises to 6
+Descartes folds
+Uncalled bet of 4 returned to Zak
+Zak wins the pot (4)
+
+Hand #47, Descartes (550), Zak (-550)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Tc Td As Kc]
+Dealt to Zak [Jd Ad Qs 5s]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #48, Zak (-549), Descartes (549)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [6s Ah Ac 3d]
+Dealt to Descartes [9s 7s 5h 3h]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #49, Descartes (550), Zak (-550)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [2s 8h Qs 7s]
+Dealt to Zak [6h 5d 4s 7h]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #50, Zak (-549), Descartes (549)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [5c 5s 3s Kh]
+Dealt to Descartes [8s 7s 2h Qd]
+Zak raises to 6
+Descartes raises to 15
+Zak raises to 45
+Descartes raises to 84
+Zak raises to 200
+Descartes folds
+Uncalled bet of 116 returned to Zak
+Zak wins the pot (168)
+
+Hand #51, Descartes (465), Zak (-465)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [9c 4s 3c 5d]
+Dealt to Zak [3d 3s 6s Qd]
+Descartes calls
+Zak raises to 4
 Descartes raises to 11
 Zak raises to 33
 Descartes folds
 Uncalled bet of 22 returned to Zak
 Zak wins the pot (22)
 
-Hand #29, Descartes (160), Zak (-160)
+Hand #52, Zak (-454), Descartes (454)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [5d 3d 7s 4d]
+Dealt to Descartes [4s 6h 9s 9d]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #53, Descartes (455), Zak (-455)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [4c 9c 3s Tc]
-Dealt to Zak [Qs Ah Kd 6d]
+Dealt to Descartes [9c Qs 3d Ks]
+Dealt to Zak [3c Ad 3h 9s]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #54, Zak (-454), Descartes (454)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [6d 3d 6s 5s]
+Dealt to Descartes [7c 8h 9s 5c]
+Zak raises to 4
+Descartes calls
+*** FLOP *** (8) [4s 6c 7h]
+Descartes bets 2
+Zak raises to 14
+Descartes raises to 48
+Zak raises to 152
+Descartes raises to 196
+Zak calls
+*** TURN *** (400) [4s 6c 7h] [Qc]
+*** RIVER *** (400) [4s 6c 7h Qc] [5d]
+Zak shows [6d 3d 6s 5s]
+Descartes shows [7c 8h 9s 5c]
+Descartes wins the pot (400)
+
+Hand #55, Descartes (654), Zak (-654)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [8h 2h 6s 9s]
+Dealt to Zak [Th Ad 6c 5h]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #56, Zak (-653), Descartes (653)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Qs 3s Jc 5c]
+Dealt to Descartes [5h 4d 7h 3c]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #57, Descartes (654), Zak (-654)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [2h 8c Jd Kd]
+Dealt to Zak [Kh 4s Ks 7c]
 Descartes calls
 Zak checks
-*** FLOP *** (4) [2d 9h 4s]
+*** FLOP *** (4) [Tc 6s 6c]
 Zak checks
 Descartes bets 2
 Zak raises to 10
-Descartes raises to 33
-Zak raises to 103
-Descartes raises to 175
-Zak raises to 198
-Descartes folds
-Uncalled bet of 23 returned to Zak
-Zak wins the pot (354)
-
-Hand #30, Zak (17), Descartes (-17)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [8d Ad 7h 3d]
-Dealt to Descartes [Kd Jc 3s 5d]
-Zak raises to 6
-Descartes calls
-*** FLOP *** (12) [Kc Td 4d]
-Descartes checks
-Zak checks
-*** TURN *** (12) [Kc Td 4d] [3c]
-Descartes bets 8
-Zak raises to 36
-Descartes calls
-*** RIVER *** (84) [Kc Td 4d 3c] [3h]
-Descartes checks
-Zak checks
-Zak shows [8d Ad 7h 3d]
-Descartes shows [Kd Jc 3s 5d]
-Descartes wins the pot (84)
-
-Hand #31, Descartes (25), Zak (-25)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [4h Js 7c 9h]
-Dealt to Zak [5h Jc 4c As]
-Descartes folds
-Zak wins the pot (3)
-
-Hand #32, Zak (-24), Descartes (24)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Qs 4c 9d 2h]
-Dealt to Descartes [Ad 6s Jd Kd]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #33, Descartes (25), Zak (-25)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Ac Ah 7c 6h]
-Dealt to Zak [6s Jc 2h 5s]
-Descartes folds
-Zak wins the pot (3)
-
-Hand #34, Zak (-24), Descartes (24)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [4s Qs 6d Td]
-Dealt to Descartes [Jc 9c 6h 3s]
-Zak raises to 4
-Descartes raises to 9
-Zak raises to 27
-Descartes raises to 76
-Zak raises to 200
-Descartes calls
-*** FLOP *** (400) [Ts 8s 3h]
-*** TURN *** (400) [Ts 8s 3h] [2d]
-*** RIVER *** (400) [Ts 8s 3h 2d] [4d]
-Zak shows [4s Qs 6d Td]
-Descartes shows [Jc 9c 6h 3s]
-Zak wins the pot (400)
-
-Hand #35, Descartes (-176), Zak (176)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Jc 5d 7s Ks]
-Dealt to Zak [8s 4d 9s 9h]
-Descartes calls
-Zak raises to 6
-Descartes folds
-Uncalled bet of 4 returned to Zak
-Zak wins the pot (4)
-
-Hand #36, Zak (178), Descartes (-178)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [4c 7d 8s Kd]
-Dealt to Descartes [9h Qd 6h Td]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #37, Descartes (-177), Zak (177)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [9d 3d 2c Ks]
-Dealt to Zak [Td 7c 7h Qh]
-Descartes folds
-Zak wins the pot (3)
-
-Hand #38, Zak (178), Descartes (-178)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [2s Ah Kd 3c]
-Dealt to Descartes [Js Ad 4h 4d]
-Zak raises to 6
-Descartes calls
-*** FLOP *** (12) [Jc Kh 6d]
-Descartes bets 7
-Zak raises to 33
-Descartes calls
-*** TURN *** (78) [Jc Kh 6d] [Ks]
-Descartes bets 77
-Zak raises to 161
-Descartes calls
-*** RIVER *** (400) [Jc Kh 6d Ks] [2d]
-Zak shows [2s Ah Kd 3c]
-Descartes shows [Js Ad 4h 4d]
-Zak wins the pot (400)
-
-Hand #39, Descartes (-378), Zak (378)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [8c 9s 6h Kc]
-Dealt to Zak [3s Qh Ks 9d]
-Descartes folds
-Zak wins the pot (3)
-
-Hand #40, Zak (379), Descartes (-379)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [4c 3s Jc 8s]
-Dealt to Descartes [6d Qs Th Td]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #41, Descartes (-378), Zak (378)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Kd Ac 2d Jc]
-Dealt to Zak [3s 7h Ad 2s]
-Descartes calls
-Zak checks
-*** FLOP *** (4) [Jd 9c As]
-Zak checks
-Descartes checks
-*** TURN *** (4) [Jd 9c As] [Tc]
-Zak checks
-Descartes checks
-*** RIVER *** (4) [Jd 9c As Tc] [8c]
-Zak checks
-Descartes checks
-Descartes shows [Kd Ac 2d Jc]
-Zak shows [3s 7h Ad 2s]
-Descartes wins the pot (4)
-
-Hand #42, Zak (376), Descartes (-376)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Ac 8c 2h As]
-Dealt to Descartes [5h 6s Js Jc]
-Zak raises to 6
-Descartes folds
-Uncalled bet of 4 returned to Zak
-Zak wins the pot (4)
-
-Hand #43, Descartes (-378), Zak (378)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Qc 7c Qd 4s]
-Dealt to Zak [4c 7s Ts 8c]
-Descartes calls
-Zak raises to 4
-Descartes folds
-Uncalled bet of 2 returned to Zak
-Zak wins the pot (4)
-
-Hand #44, Zak (380), Descartes (-380)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Kd As 4d 9s]
-Dealt to Descartes [7h 4h Ks 2c]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #45, Descartes (-379), Zak (379)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [6h Ac 3d 3s]
-Dealt to Zak [Kd Qc Ad 8c]
-Descartes calls
-Zak checks
-*** FLOP *** (4) [9s As Jc]
-Zak checks
-Descartes bets 3
-Zak raises to 13
-Descartes raises to 33
-Zak raises to 103
-Descartes calls
-*** TURN *** (210) [9s As Jc] [5d]
-Zak checks
-Descartes checks
-*** RIVER *** (210) [9s As Jc 5d] [Qh]
-Zak checks
-Descartes bets 63
-Zak raises to 95
-Descartes calls
-Descartes shows [6h Ac 3d 3s]
-Zak shows [Kd Qc Ad 8c]
-Zak wins the pot (400)
-
-Hand #46, Zak (579), Descartes (-579)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Tc Qs 5h 9h]
-Dealt to Descartes [4c 2d 4h 8s]
-Zak raises to 6
-Descartes calls
-*** FLOP *** (12) [Kh 6c 5d]
-Descartes checks
-Zak checks
-*** TURN *** (12) [Kh 6c 5d] [Jd]
-Descartes bets 8
-Zak raises to 36
-Descartes raises to 99
-Zak raises to 194
-Descartes calls
-*** RIVER *** (400) [Kh 6c 5d Jd] [Ac]
-Zak shows [Tc Qs 5h 9h]
-Descartes shows [4c 2d 4h 8s]
-Zak wins the pot (400)
-
-Hand #47, Descartes (-779), Zak (779)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [4c 6s 2s Jc]
-Dealt to Zak [Tc 5c 3h 9s]
-Descartes folds
-Zak wins the pot (3)
-
-Hand #48, Zak (780), Descartes (-780)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Kd 7s 8h 9c]
-Dealt to Descartes [Jc 5h 8s 9h]
-Zak calls
-Descartes raises to 4
-Zak raises to 12
-Descartes raises to 23
-Zak raises to 69
-Descartes calls
-*** FLOP *** (138) [4s 7c 6s]
-Descartes checks
-Zak checks
-*** TURN *** (138) [4s 7c 6s] [5s]
-Descartes bets 90
-Zak raises to 131
-Descartes folds
-Uncalled bet of 41 returned to Zak
-Zak wins the pot (318)
-
-Hand #49, Descartes (-939), Zak (939)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [5s 5c 2d Ad]
-Dealt to Zak [3s Qc 8h 6h]
-Descartes calls
-Zak raises to 6
-Descartes raises to 10
-Zak raises to 30
-Descartes calls
-*** FLOP *** (60) [6s 4h 6c]
-Zak checks
-Descartes bets 35
-Zak raises to 165
-Descartes folds
-Uncalled bet of 130 returned to Zak
-Zak wins the pot (130)
-
-Hand #50, Zak (1004), Descartes (-1004)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Jc 2c 5s Td]
-Dealt to Descartes [Js Kh Ah Ac]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #51, Descartes (-1003), Zak (1003)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [5h 9h 4c 6c]
-Dealt to Zak [Jc 7s 2s 3s]
-Descartes calls
-Zak raises to 6
-Descartes folds
-Uncalled bet of 4 returned to Zak
-Zak wins the pot (4)
-
-Hand #52, Zak (1005), Descartes (-1005)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [5s 9d 2c 8s]
-Dealt to Descartes [Js 6c 5d Kh]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #53, Descartes (-1004), Zak (1004)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [4c Kh 3s Jd]
-Dealt to Zak [4h 7d Jh Ad]
-Descartes calls
-Zak raises to 6
-Descartes raises to 11
-Zak raises to 33
-Descartes raises to 73
-Zak raises to 200
-Descartes folds
-Uncalled bet of 127 returned to Zak
-Zak wins the pot (146)
-
-Hand #54, Zak (1077), Descartes (-1077)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [3h 3c 8c Ad]
-Dealt to Descartes [Js 8h Jh Qh]
-Zak raises to 6
-Descartes raises to 16
-Zak raises to 48
-Descartes raises to 136
-Zak raises to 200
-Descartes folds
-Uncalled bet of 64 returned to Zak
-Zak wins the pot (272)
-
-Hand #55, Descartes (-1213), Zak (1213)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Tc 6s 3h 7h]
-Dealt to Zak [Ks Kc 4h 8h]
-Descartes raises to 5
-Zak raises to 15
-Descartes raises to 44
-Zak raises to 132
-Descartes calls
-*** FLOP *** (264) [Qh Kh 8d]
-Zak checks
-Descartes bets 30
-Zak raises to 68
-Descartes calls
-*** TURN *** (400) [Qh Kh 8d] [3c]
-*** RIVER *** (400) [Qh Kh 8d 3c] [8c]
-Descartes shows [Tc 6s 3h 7h]
-Zak shows [Ks Kc 4h 8h]
-Zak wins the pot (400)
-
-Hand #56, Zak (1413), Descartes (-1413)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [2h 6c 4s 9d]
-Dealt to Descartes [4c 5d 7c Js]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #57, Descartes (-1412), Zak (1412)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [5c Qh 4s Kd]
-Dealt to Zak [6d 4c 6s Ah]
-Descartes calls
-Zak checks
-*** FLOP *** (4) [Js 5h Jc]
-Zak checks
-Descartes checks
-*** TURN *** (4) [Js 5h Jc] [Tc]
-Zak checks
-Descartes bets 3
-Zak raises to 13
-Descartes calls
-*** RIVER *** (30) [Js 5h Jc Tc] [8c]
-Zak checks
-Descartes checks
-Descartes shows [5c Qh 4s Kd]
-Zak shows [6d 4c 6s Ah]
-Zak wins the pot (30)
-
-Hand #58, Zak (1427), Descartes (-1427)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Jc 4c Td 5s]
-Dealt to Descartes [Ac 8h 3c Kc]
-Zak raises to 6
-Descartes calls
-*** FLOP *** (12) [2h Kh Jd]
-Descartes bets 4
-Zak raises to 24
-Descartes folds
-Uncalled bet of 20 returned to Zak
-Zak wins the pot (20)
-
-Hand #59, Descartes (-1437), Zak (1437)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [8c Tc 6h 2d]
-Dealt to Zak [6s Jd 5d 2s]
-Descartes folds
-Zak wins the pot (3)
-
-Hand #60, Zak (1438), Descartes (-1438)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Kc 5c Jd Ks]
-Dealt to Descartes [8h Qd 3h 9d]
-Zak raises to 4
-Descartes folds
-Uncalled bet of 2 returned to Zak
-Zak wins the pot (4)
-
-Hand #61, Descartes (-1440), Zak (1440)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [4d 9d Ts 8s]
-Dealt to Zak [Jh 2c 8c Qh]
-Descartes calls
-Zak raises to 6
-Descartes folds
-Uncalled bet of 4 returned to Zak
-Zak wins the pot (4)
-
-Hand #62, Zak (1442), Descartes (-1442)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [6s 6d Qc Js]
-Dealt to Descartes [8c 2h 4s 3d]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #63, Descartes (-1441), Zak (1441)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Tc Kc Jh 2h]
-Dealt to Zak [Js Kh 3h 4d]
-Descartes raises to 4
-Zak raises to 12
 Descartes raises to 27
-Zak raises to 81
-Descartes calls
-*** FLOP *** (162) [9c 9d 7h]
-Zak checks
-Descartes bets 82
-Zak raises to 119
+Zak raises to 85
 Descartes folds
-Uncalled bet of 37 returned to Zak
-Zak wins the pot (326)
+Uncalled bet of 58 returned to Zak
+Zak wins the pot (58)
 
-Hand #64, Zak (1604), Descartes (-1604)
+Hand #58, Zak (-625), Descartes (625)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [5h 4s 9c As]
-Dealt to Descartes [Ac Tc Jh Td]
-Zak raises to 4
-Descartes raises to 9
-Zak raises to 27
-Descartes raises to 71
-Zak raises to 200
-Descartes calls
-*** FLOP *** (400) [Ah 7s 9h]
-*** TURN *** (400) [Ah 7s 9h] [7c]
-*** RIVER *** (400) [Ah 7s 9h 7c] [Ad]
-Zak shows [5h 4s 9c As]
-Descartes shows [Ac Tc Jh Td]
-Zak wins the pot (400)
+Dealt to Zak [9h 7s 8d As]
+Dealt to Descartes [3c Td 6h 5h]
+Zak folds
+Descartes wins the pot (3)
 
-Hand #65, Descartes (-1804), Zak (1804)
+Hand #59, Descartes (626), Zak (-626)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [4c 4s Kd 5s]
-Dealt to Zak [Kh 7h 8h 2s]
-Descartes raises to 5
-Zak raises to 15
+Dealt to Descartes [Th 2d Ah Qs]
+Dealt to Zak [Ad As 9s Tc]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #60, Zak (-625), Descartes (625)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Jd 4h 2s 3d]
+Dealt to Descartes [6h 6d Jh 3s]
+Zak raises to 6
+Descartes raises to 15
+Zak raises to 45
 Descartes calls
-*** FLOP *** (30) [2d Kc 2c]
+*** FLOP *** (90) [Ac 7c Th]
+Descartes bets 44
+Zak raises to 155
+Descartes calls
+*** TURN *** (400) [Ac 7c Th] [6s]
+*** RIVER *** (400) [Ac 7c Th 6s] [Qc]
+Zak shows [Jd 4h 2s 3d]
+Descartes shows [6h 6d Jh 3s]
+Descartes wins the pot (400)
+
+Hand #61, Descartes (825), Zak (-825)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [8c 6h 5d 7c]
+Dealt to Zak [Kh 8h 3s Kd]
+Descartes calls
+Zak raises to 4
+Descartes raises to 6
+Zak raises to 18
+Descartes calls
+*** FLOP *** (36) [2s 8s 5c]
 Zak checks
-Descartes bets 16
-Zak raises to 78
+Descartes checks
+*** TURN *** (36) [2s 8s 5c] [Jh]
+Zak checks
+Descartes bets 13
+Zak raises to 75
 Descartes folds
 Uncalled bet of 62 returned to Zak
 Zak wins the pot (62)
 
-Hand #66, Zak (1835), Descartes (-1835)
+Hand #62, Zak (-794), Descartes (794)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [5h Ks Th Jd]
-Dealt to Descartes [Ac Kc 6c Ah]
+Dealt to Zak [4s Tc As 8s]
+Dealt to Descartes [5s 3s 6h Ah]
+Zak raises to 4
+Descartes calls
+*** FLOP *** (8) [3d Kc 4c]
+Descartes bets 7
+Zak raises to 29
+Descartes folds
+Uncalled bet of 22 returned to Zak
+Zak wins the pot (22)
+
+Hand #63, Descartes (783), Zak (-783)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Qd Kd 3s Tc]
+Dealt to Zak [Qh Td Kh 4d]
+Descartes calls
 Zak raises to 4
 Descartes raises to 6
 Zak raises to 18
@@ -902,492 +837,501 @@ Descartes folds
 Uncalled bet of 12 returned to Zak
 Zak wins the pot (12)
 
-Hand #67, Descartes (-1841), Zak (1841)
+Hand #64, Zak (-777), Descartes (777)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [9h 6s Js 9s]
+Dealt to Descartes [As Kc 2c 6h]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #65, Descartes (778), Zak (-778)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [9h 5h 7c 4h]
-Dealt to Zak [4d 8s 3s Ac]
+Dealt to Descartes [Ac 2s Ad 9d]
+Dealt to Zak [Qc 4h 3s 6s]
+Descartes calls
+Zak checks
+*** FLOP *** (4) [Qs Kd 8c]
+Zak checks
+Descartes checks
+*** TURN *** (4) [Qs Kd 8c] [7c]
+Zak checks
+Descartes bets 2
+Zak raises to 10
+Descartes folds
+Uncalled bet of 8 returned to Zak
+Zak wins the pot (8)
+
+Hand #66, Zak (-774), Descartes (774)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [3h Qd Kh Ts]
+Dealt to Descartes [Ad 6s Ac 2h]
+Zak calls
+Descartes raises to 4
+Zak raises to 12
+Descartes raises to 25
+Zak raises to 75
+Descartes raises to 170
+Zak raises to 200
+Descartes calls
+*** FLOP *** (400) [5c 4d 3c]
+*** TURN *** (400) [5c 4d 3c] [2s]
+*** RIVER *** (400) [5c 4d 3c 2s] [4h]
+Zak shows [3h Qd Kh Ts]
+Descartes shows [Ad 6s Ac 2h]
+Descartes wins the pot (400)
+
+Hand #67, Descartes (974), Zak (-974)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [5d Ad 8c Qc]
+Dealt to Zak [Kd 3c Tc Qd]
+Descartes calls
+Zak raises to 6
+Descartes raises to 14
+Zak raises to 42
+Descartes calls
+*** FLOP *** (84) [7c 3s 5h]
+Zak checks
+Descartes bets 56
+Zak raises to 158
+Descartes folds
+Uncalled bet of 102 returned to Zak
+Zak wins the pot (196)
+
+Hand #68, Zak (-876), Descartes (876)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [5c Kc 4h 7d]
+Dealt to Descartes [Ad Ac Ts Jd]
+Zak calls
 Descartes raises to 4
 Zak raises to 12
 Descartes calls
-*** FLOP *** (24) [9c Qh Kd]
-Zak checks
-Descartes bets 13
-Zak raises to 63
-Descartes folds
-Uncalled bet of 50 returned to Zak
-Zak wins the pot (50)
-
-Hand #68, Zak (1866), Descartes (-1866)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Ah 8c Ad 6h]
-Dealt to Descartes [2d Kd 7c Jh]
-Zak calls
-Descartes raises to 5
-Zak raises to 15
-Descartes raises to 42
-Zak raises to 126
-Descartes calls
-*** FLOP *** (252) [4d Tc Kc]
-Descartes bets 52
-Zak raises to 74
+*** FLOP *** (24) [4d 9c Js]
+Descartes bets 23
+Zak raises to 93
+Descartes raises to 166
+Zak raises to 188
 Descartes folds
 Uncalled bet of 22 returned to Zak
 Zak wins the pot (356)
 
-Hand #69, Descartes (-2044), Zak (2044)
+Hand #69, Descartes (698), Zak (-698)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [9d 3d Kc 8s]
-Dealt to Zak [7c 3c Ah Ts]
-Descartes raises to 4
-Zak raises to 12
-Descartes folds
-Uncalled bet of 8 returned to Zak
-Zak wins the pot (8)
-
-Hand #70, Zak (2048), Descartes (-2048)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [7d As Ac Ad]
-Dealt to Descartes [Ts 5h 9d 5s]
-Zak calls
-Descartes raises to 4
-Zak raises to 12
-Descartes folds
-Uncalled bet of 8 returned to Zak
-Zak wins the pot (8)
-
-Hand #71, Descartes (-2052), Zak (2052)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Jd 8c Jh Jc]
-Dealt to Zak [5s Th 4c 6h]
+Dealt to Descartes [2s Jd Ac Ks]
+Dealt to Zak [8c 4d Th 5h]
 Descartes folds
 Zak wins the pot (3)
 
-Hand #72, Zak (2053), Descartes (-2053)
+Hand #70, Zak (-697), Descartes (697)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [Kd As Qd 9s]
-Dealt to Descartes [Kc 5h 7h 2h]
-Zak raises to 4
-Descartes folds
-Uncalled bet of 2 returned to Zak
-Zak wins the pot (4)
-
-Hand #73, Descartes (-2055), Zak (2055)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Td 7s Ts 4c]
-Dealt to Zak [Js 5d 8c 6c]
-Descartes raises to 5
-Zak raises to 15
-Descartes calls
-*** FLOP *** (30) [Jc 9d Qd]
-Zak checks
-Descartes bets 16
-Zak raises to 78
-Descartes calls
-*** TURN *** (186) [Jc 9d Qd] [6h]
-Zak checks
-Descartes checks
-*** RIVER *** (186) [Jc 9d Qd 6h] [6s]
-Zak checks
-Descartes bets 61
-Zak raises to 107
-Descartes folds
-Uncalled bet of 46 returned to Zak
-Zak wins the pot (308)
-
-Hand #74, Zak (2209), Descartes (-2209)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [4c Ks 5h 7c]
-Dealt to Descartes [Kd Qs 9s 2d]
-Zak calls
-Descartes checks
-*** FLOP *** (4) [6d 4h Qh]
-Descartes checks
-Zak checks
-*** TURN *** (4) [6d 4h Qh] [5s]
-Descartes checks
-Zak checks
-*** RIVER *** (4) [6d 4h Qh 5s] [2s]
-Descartes bets 2
-Zak raises to 10
-Descartes raises to 28
-Zak raises to 88
-Descartes folds
-Uncalled bet of 60 returned to Zak
-Zak wins the pot (60)
-
-Hand #75, Descartes (-2239), Zak (2239)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [8d 7h Qc Kh]
-Dealt to Zak [As 7d 6c 8c]
-Descartes folds
-Zak wins the pot (3)
-
-Hand #76, Zak (2240), Descartes (-2240)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Qd 3d Tc Ad]
-Dealt to Descartes [Qh Td 4c As]
+Dealt to Zak [9d 2d Jd 6h]
+Dealt to Descartes [9c Kh Jh Qd]
 Zak raises to 6
 Descartes calls
-*** FLOP *** (12) [4d Qc 5c]
+*** FLOP *** (12) [2h Td Ks]
+Descartes checks
+Zak checks
+*** TURN *** (12) [2h Td Ks] [5d]
+Descartes checks
+Zak checks
+*** RIVER *** (12) [2h Td Ks 5d] [As]
+Descartes checks
+Zak checks
+Zak shows [9d 2d Jd 6h]
+Descartes shows [9c Kh Jh Qd]
+Descartes wins the pot (12)
+
+Hand #71, Descartes (703), Zak (-703)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [8h 3d Qc Th]
+Dealt to Zak [7d Jh Ks 9h]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #72, Zak (-702), Descartes (702)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Js 9s Ah Jc]
+Dealt to Descartes [7h 6h Tc 2d]
+Zak raises to 4
+Descartes raises to 11
+Zak raises to 33
+Descartes folds
+Uncalled bet of 22 returned to Zak
+Zak wins the pot (22)
+
+Hand #73, Descartes (691), Zak (-691)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Jd As 4h 5s]
+Dealt to Zak [Tc Qs 7d 2c]
+Descartes calls
+Zak checks
+*** FLOP *** (4) [Qh 8h 3s]
+Zak checks
+Descartes checks
+*** TURN *** (4) [Qh 8h 3s] [Kd]
+Zak checks
+Descartes checks
+*** RIVER *** (4) [Qh 8h 3s Kd] [Ah]
+Zak checks
+Descartes checks
+Descartes shows [Jd As 4h 5s]
+Zak shows [Tc Qs 7d 2c]
+Descartes wins the pot (4)
+
+Hand #74, Zak (-693), Descartes (693)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Jd Jh 7c Jc]
+Dealt to Descartes [5h 5s 6s 4c]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #75, Descartes (694), Zak (-694)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [9d As 7h 2h]
+Dealt to Zak [Ad 7d 9h Kd]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #76, Zak (-693), Descartes (693)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Jh Th 7d 3s]
+Dealt to Descartes [4s Tc Qd 8s]
+Zak raises to 6
+Descartes folds
+Uncalled bet of 4 returned to Zak
+Zak wins the pot (4)
+
+Hand #77, Descartes (691), Zak (-691)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [7h 5d 6d 9s]
+Dealt to Zak [7d Kh Qh Tc]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #78, Zak (-690), Descartes (690)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [Td 7c 7s Kc]
+Dealt to Descartes [Qd 9d 4s As]
+Zak raises to 4
+Descartes calls
+*** FLOP *** (8) [8s Jc 8h]
+Descartes checks
+Zak checks
+*** TURN *** (8) [8s Jc 8h] [Jh]
 Descartes bets 5
-Zak raises to 27
-Descartes raises to 55
-Zak raises to 177
-Descartes raises to 194
-Zak calls
-*** TURN *** (400) [4d Qc 5c] [7c]
-*** RIVER *** (400) [4d Qc 5c 7c] [8s]
-Zak shows [Qd 3d Tc Ad]
-Descartes shows [Qh Td 4c As]
-Descartes wins the pot (400)
+Zak raises to 23
+Descartes folds
+Uncalled bet of 18 returned to Zak
+Zak wins the pot (18)
 
-Hand #77, Descartes (-2040), Zak (2040)
+Hand #79, Descartes (681), Zak (-681)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [8c 4s 8d 5d]
-Dealt to Zak [8s Qs Td Jh]
+Dealt to Descartes [Ad Qc 2c 8s]
+Dealt to Zak [Ks Ah 9c Jc]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #80, Zak (-680), Descartes (680)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [8s 8c 5h 8d]
+Dealt to Descartes [Qd 4d 5d 6s]
+Zak calls
+Descartes raises to 5
+Zak raises to 15
+Descartes folds
+Uncalled bet of 10 returned to Zak
+Zak wins the pot (10)
+
+Hand #81, Descartes (675), Zak (-675)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [5s 4h Qd 6s]
+Dealt to Zak [Js 3h Kd Ah]
+Descartes raises to 5
+Zak raises to 15
+Descartes raises to 44
+Zak raises to 132
+Descartes folds
+Uncalled bet of 88 returned to Zak
+Zak wins the pot (88)
+
+Hand #82, Zak (-631), Descartes (631)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [6d 9s 6h Tc]
+Dealt to Descartes [Th Jc 7h 8s]
+Zak raises to 6
+Descartes raises to 17
+Zak raises to 51
+Descartes folds
+Uncalled bet of 34 returned to Zak
+Zak wins the pot (34)
+
+Hand #83, Descartes (614), Zak (-614)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [9d 3d 7c Jc]
+Dealt to Zak [4d 7d 2d Jd]
+Descartes raises to 5
+Zak raises to 15
+Descartes raises to 40
+Zak raises to 120
+Descartes calls
+*** FLOP *** (240) [Tc 9s 6c]
+Zak checks
+Descartes checks
+*** TURN *** (240) [Tc 9s 6c] [2c]
+Zak checks
+Descartes checks
+*** RIVER *** (240) [Tc 9s 6c 2c] [9h]
+Zak checks
+Descartes checks
+Descartes shows [9d 3d 7c Jc]
+Zak shows [4d 7d 2d Jd]
+Descartes wins the pot (240)
+
+Hand #84, Zak (-734), Descartes (734)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [4d 3d 9c Jd]
+Dealt to Descartes [Qh 6c Kd Jc]
+Zak raises to 4
+Descartes raises to 9
+Zak raises to 27
+Descartes calls
+*** FLOP *** (54) [Qc 4s 6s]
+Descartes bets 42
+Zak raises to 173
+Descartes folds
+Uncalled bet of 131 returned to Zak
+Zak wins the pot (138)
+
+Hand #85, Descartes (665), Zak (-665)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [Jc 9c 4d 3c]
+Dealt to Zak [Qd 5c 2d Th]
 Descartes calls
 Zak checks
-*** FLOP *** (4) [9h 5c 2d]
+*** FLOP *** (4) [8c 8h Kh]
+Zak checks
+Descartes checks
+*** TURN *** (4) [8c 8h Kh] [Ad]
+Zak checks
+Descartes checks
+*** RIVER *** (4) [8c 8h Kh Ad] [9h]
 Zak checks
 Descartes bets 2
 Zak raises to 10
-Descartes calls
-*** TURN *** (24) [9h 5c 2d] [6d]
-Zak checks
-Descartes checks
-*** RIVER *** (24) [9h 5c 2d 6d] [6h]
-Zak checks
-Descartes checks
-Descartes shows [8c 4s 8d 5d]
-Zak shows [8s Qs Td Jh]
-Descartes wins the pot (24)
+Descartes folds
+Uncalled bet of 8 returned to Zak
+Zak wins the pot (8)
 
-Hand #78, Zak (2028), Descartes (-2028)
+Hand #86, Zak (-661), Descartes (661)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [6d 9h 2d 7h]
-Dealt to Descartes [5s 6h Ts 8c]
-Zak calls
-Descartes checks
-*** FLOP *** (4) [2h 4d Ks]
-Descartes bets 3
-Zak raises to 13
+Dealt to Zak [4h Qd 6h 2s]
+Dealt to Descartes [Kh Jh Ah Jc]
+Zak raises to 6
 Descartes folds
-Uncalled bet of 10 returned to Zak
-Zak wins the pot (10)
+Uncalled bet of 4 returned to Zak
+Zak wins the pot (4)
 
-Hand #79, Descartes (-2033), Zak (2033)
+Hand #87, Descartes (659), Zak (-659)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [9h 5c As Qd]
-Dealt to Zak [7h 8h Kh 8d]
-Descartes calls
-Zak raises to 6
-Descartes calls
-*** FLOP *** (12) [7c 8s Js]
-Zak checks
-Descartes bets 2
-Zak raises to 18
-Descartes folds
-Uncalled bet of 16 returned to Zak
-Zak wins the pot (16)
-
-Hand #80, Zak (2041), Descartes (-2041)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [4c As 7s 9h]
-Dealt to Descartes [Jh Td Jc 8h]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #81, Descartes (-2040), Zak (2040)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [4d 2c Ac Ks]
-Dealt to Zak [Ad Jd 7d 2s]
-Descartes calls
-Zak raises to 6
-Descartes raises to 16
-Zak raises to 48
-Descartes raises to 94
-Zak raises to 200
-Descartes folds
-Uncalled bet of 106 returned to Zak
-Zak wins the pot (188)
-
-Hand #82, Zak (2134), Descartes (-2134)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [8s 2d Ac 3c]
-Dealt to Descartes [Qc Qd 8d 6h]
-Zak calls
+Dealt to Descartes [Js 8c 5s Tc]
+Dealt to Zak [Ac Kd Jh 6d]
 Descartes raises to 4
 Zak raises to 12
-Descartes calls
-*** FLOP *** (24) [Jc 4c 5h]
-Descartes bets 21
-Zak raises to 87
-Descartes raises to 164
-Zak raises to 188
-Descartes calls
-*** TURN *** (400) [Jc 4c 5h] [2h]
-*** RIVER *** (400) [Jc 4c 5h 2h] [Js]
-Zak shows [8s 2d Ac 3c]
-Descartes shows [Qc Qd 8d 6h]
-Zak wins the pot (400)
-
-Hand #83, Descartes (-2334), Zak (2334)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Ac Jd Jc Ah]
-Dealt to Zak [2d Tc Td 6h]
-Descartes folds
-Zak wins the pot (3)
-
-Hand #84, Zak (2335), Descartes (-2335)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Kd 6c 9h 8h]
-Dealt to Descartes [3d 3s 3h 8c]
-Zak raises to 6
-Descartes calls
-*** FLOP *** (12) [4h Jh 4s]
-Descartes checks
-Zak checks
-*** TURN *** (12) [4h Jh 4s] [2s]
-Descartes bets 2
-Zak raises to 18
-Descartes folds
-Uncalled bet of 16 returned to Zak
-Zak wins the pot (16)
-
-Hand #85, Descartes (-2343), Zak (2343)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Jc As 8s 3s]
-Dealt to Zak [Ad 4c 5s 3c]
-Descartes raises to 5
-Zak raises to 15
-Descartes folds
-Uncalled bet of 10 returned to Zak
-Zak wins the pot (10)
-
-Hand #86, Zak (2348), Descartes (-2348)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Jh 2c 5c 7c]
-Dealt to Descartes [3s Qh Kh 8s]
-Zak raises to 6
-Descartes folds
-Uncalled bet of 4 returned to Zak
-Zak wins the pot (4)
-
-Hand #87, Descartes (-2350), Zak (2350)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [2d Ts Ks 8h]
-Dealt to Zak [4s 6c Js 5d]
-Descartes raises to 5
-Zak raises to 15
-Descartes raises to 33
-Zak raises to 99
-Descartes calls
-*** FLOP *** (198) [Jh 6s Jd]
-Zak checks
-Descartes checks
-*** TURN *** (198) [Jh 6s Jd] [Qh]
-Zak checks
-Descartes checks
-*** RIVER *** (198) [Jh 6s Jd Qh] [7d]
-Zak checks
-Descartes checks
-Descartes shows [2d Ts Ks 8h]
-Zak shows [4s 6c Js 5d]
-Zak wins the pot (198)
-
-Hand #88, Zak (2449), Descartes (-2449)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Qd Ks 5s Ac]
-Dealt to Descartes [Tc 3d Ad 5h]
-Zak raises to 6
-Descartes raises to 14
-Zak raises to 42
-Descartes raises to 102
+Descartes raises to 30
+Zak raises to 90
+Descartes raises to 168
 Zak raises to 200
-Descartes calls
-*** FLOP *** (400) [Js Jc 8d]
-*** TURN *** (400) [Js Jc 8d] [Td]
-*** RIVER *** (400) [Js Jc 8d Td] [Ts]
-Zak shows [Qd Ks 5s Ac]
-Descartes shows [Tc 3d Ad 5h]
-Descartes wins the pot (400)
-
-Hand #89, Descartes (-2249), Zak (2249)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Js 2h 2s 7c]
-Dealt to Zak [8c Ac 9h 7s]
 Descartes folds
-Zak wins the pot (3)
+Uncalled bet of 32 returned to Zak
+Zak wins the pot (336)
 
-Hand #90, Zak (2250), Descartes (-2250)
+Hand #88, Zak (-491), Descartes (491)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [3c Th 4c 8h]
-Dealt to Descartes [2h Jd Qc 3s]
-Zak raises to 4
-Descartes calls
-*** FLOP *** (8) [7h 5c 3d]
-Descartes bets 6
-Zak raises to 26
-Descartes folds
-Uncalled bet of 20 returned to Zak
-Zak wins the pot (20)
-
-Hand #91, Descartes (-2260), Zak (2260)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Js 2d Ah 9c]
-Dealt to Zak [6c Qs 8d 3h]
-Descartes raises to 5
-Zak raises to 15
-Descartes calls
-*** FLOP *** (30) [Jc Ts 3s]
-Zak checks
-Descartes bets 18
-Zak raises to 84
-Descartes folds
-Uncalled bet of 66 returned to Zak
-Zak wins the pot (66)
-
-Hand #92, Zak (2293), Descartes (-2293)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Kh 6d 6h 8c]
-Dealt to Descartes [9h 8d Ts 4h]
-Zak folds
-Descartes wins the pot (3)
-
-Hand #93, Descartes (-2292), Zak (2292)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [6c 9d Js Tc]
-Dealt to Zak [Ks 3s Th 6d]
-Descartes calls
-Zak raises to 4
-Descartes raises to 7
-Zak raises to 21
-Descartes folds
-Uncalled bet of 14 returned to Zak
-Zak wins the pot (14)
-
-Hand #94, Zak (2299), Descartes (-2299)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [3c 5h 8s 3d]
-Dealt to Descartes [6d 2c 7s 5s]
-Zak raises to 4
-Descartes raises to 8
-Zak raises to 24
-Descartes folds
-Uncalled bet of 16 returned to Zak
-Zak wins the pot (16)
-
-Hand #95, Descartes (-2307), Zak (2307)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [Th 3h 4s 7c]
-Dealt to Zak [Kh 2d 2h 9c]
-Descartes calls
-Zak raises to 4
-Descartes raises to 7
-Zak raises to 21
-Descartes calls
-*** FLOP *** (42) [6c 5d 5s]
-Zak checks
-Descartes checks
-*** TURN *** (42) [6c 5d 5s] [8h]
-Zak checks
-Descartes bets 14
-Zak raises to 84
-Descartes calls
-*** RIVER *** (210) [6c 5d 5s 8h] [Qc]
-Zak checks
-Descartes checks
-Descartes shows [Th 3h 4s 7c]
-Zak shows [Kh 2d 2h 9c]
-Descartes wins the pot (210)
-
-Hand #96, Zak (2202), Descartes (-2202)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [8c 4d Ac Kc]
-Dealt to Descartes [Qh 3s 2h Ks]
-Zak raises to 6
-Descartes folds
-Uncalled bet of 4 returned to Zak
-Zak wins the pot (4)
-
-Hand #97, Descartes (-2204), Zak (2204)
-Descartes posts the blind of 1
-Zak posts the blind of 2
-Dealt to Descartes [5c Ks Qh 9c]
-Dealt to Zak [2c 3s 7h Ts]
-Descartes calls
-Zak raises to 6
-Descartes raises to 12
-Zak raises to 36
-Descartes calls
-*** FLOP *** (72) [4c 8d 4d]
-Zak checks
-Descartes checks
-*** TURN *** (72) [4c 8d 4d] [4h]
-Zak checks
-Descartes bets 27
-Zak raises to 153
-Descartes folds
-Uncalled bet of 126 returned to Zak
-Zak wins the pot (126)
-
-Hand #98, Zak (2267), Descartes (-2267)
-Zak posts the blind of 1
-Descartes posts the blind of 2
-Dealt to Zak [Ah Js 3d 6s]
-Dealt to Descartes [8h Qh Qc 4d]
+Dealt to Zak [2d 8d 5s Tc]
+Dealt to Descartes [6c 6h 8h Kd]
 Zak raises to 4
 Descartes folds
 Uncalled bet of 2 returned to Zak
 Zak wins the pot (4)
 
-Hand #99, Descartes (-2269), Zak (2269)
+Hand #89, Descartes (489), Zak (-489)
 Descartes posts the blind of 1
 Zak posts the blind of 2
-Dealt to Descartes [2c 8c 8s Jc]
-Dealt to Zak [8d 5h 8h 3h]
+Dealt to Descartes [9c Jc 7s 8s]
+Dealt to Zak [Ks Kc 7c 2c]
+Descartes raises to 4
+Zak raises to 12
 Descartes folds
-Zak wins the pot (3)
+Uncalled bet of 8 returned to Zak
+Zak wins the pot (8)
 
-Hand #100, Zak (2270), Descartes (-2270)
+Hand #90, Zak (-485), Descartes (485)
 Zak posts the blind of 1
 Descartes posts the blind of 2
-Dealt to Zak [4c 5h 3s 3h]
-Dealt to Descartes [6s 3d Ks 7c]
+Dealt to Zak [8d Th 6h Jh]
+Dealt to Descartes [Ad 5d 7c 2h]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #91, Descartes (486), Zak (-486)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [9d Js Ah 2h]
+Dealt to Zak [7s 8d 8s Ad]
+Descartes calls
 Zak raises to 4
 Descartes raises to 10
 Zak raises to 30
+Descartes calls
+*** FLOP *** (60) [3h 5d As]
+Zak checks
+Descartes checks
+*** TURN *** (60) [3h 5d As] [6d]
+Zak checks
+Descartes bets 57
+Zak raises to 170
+Descartes calls
+*** RIVER *** (400) [3h 5d As 6d] [Th]
+Descartes shows [9d Js Ah 2h]
+Zak shows [7s 8d 8s Ad]
+Descartes wins the pot (400)
+
+Hand #92, Zak (-686), Descartes (686)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [9c Kh 8h 2s]
+Dealt to Descartes [Ts Qc Qh 9d]
+Zak folds
+Descartes wins the pot (3)
+
+Hand #93, Descartes (687), Zak (-687)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [5h 8d Js Qd]
+Dealt to Zak [Kc 4c 5c 4s]
 Descartes folds
-Uncalled bet of 20 returned to Zak
-Zak wins the pot (20)
+Zak wins the pot (3)
+
+Hand #94, Zak (-686), Descartes (686)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [4c 8h 9h 7c]
+Dealt to Descartes [Qc Qh 6c Tc]
+Zak calls
+Descartes checks
+*** FLOP *** (4) [2c Td Qd]
+Descartes bets 2
+Zak raises to 10
+Descartes calls
+*** TURN *** (24) [2c Td Qd] [8s]
+Descartes checks
+Zak checks
+*** RIVER *** (24) [2c Td Qd 8s] [5c]
+Descartes bets 16
+Zak raises to 72
+Descartes raises to 133
+Zak raises to 188
+Descartes folds
+Uncalled bet of 55 returned to Zak
+Zak wins the pot (290)
+
+Hand #95, Descartes (541), Zak (-541)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [3s 6c 2d 5s]
+Dealt to Zak [6s Tc 7s 5c]
+Descartes calls
+Zak raises to 6
+Descartes raises to 13
+Zak raises to 39
+Descartes folds
+Uncalled bet of 26 returned to Zak
+Zak wins the pot (26)
+
+Hand #96, Zak (-528), Descartes (528)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [4c As 2d 6s]
+Dealt to Descartes [Qh 2c 5d Ah]
+Zak calls
+Descartes raises to 4
+Zak raises to 12
+Descartes folds
+Uncalled bet of 8 returned to Zak
+Zak wins the pot (8)
+
+Hand #97, Descartes (524), Zak (-524)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [7d 6c 9s Qs]
+Dealt to Zak [Ad 2c Kc 6s]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #98, Zak (-523), Descartes (523)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [2s Ac Qs Jd]
+Dealt to Descartes [9s Jc 8h Jh]
+Zak raises to 6
+Descartes raises to 11
+Zak raises to 33
+Descartes calls
+*** FLOP *** (66) [4c 9h Qd]
+Descartes checks
+Zak checks
+*** TURN *** (66) [4c 9h Qd] [8s]
+Descartes checks
+Zak checks
+*** RIVER *** (66) [4c 9h Qd 8s] [Td]
+Descartes checks
+Zak checks
+Zak shows [2s Ac Qs Jd]
+Descartes shows [9s Jc 8h Jh]
+Zak ties for the pot (33)
+Descartes ties for the pot (33)
+
+Hand #99, Descartes (523), Zak (-523)
+Descartes posts the blind of 1
+Zak posts the blind of 2
+Dealt to Descartes [3d 2s Tc 7h]
+Dealt to Zak [Qc 7c 8s Qh]
+Descartes folds
+Zak wins the pot (3)
+
+Hand #100, Zak (-522), Descartes (522)
+Zak posts the blind of 1
+Descartes posts the blind of 2
+Dealt to Zak [4c Kd Ah Ad]
+Dealt to Descartes [9d 4h 7s 6h]
+Zak calls
+Descartes raises to 5
+Zak raises to 15
+Descartes folds
+Uncalled bet of 10 returned to Zak
+Zak wins the pot (10)
 

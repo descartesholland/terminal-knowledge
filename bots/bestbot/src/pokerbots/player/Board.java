@@ -11,6 +11,7 @@ public class Board {
 
 	public Board(){
 		//Put empty array for each possible value of a card
+		//0 will be left as an empty list always
 		for(int i=0; i<15; i++){
 			ArrayList<Card> temp = new ArrayList<Card>();
 			board.add(temp);
