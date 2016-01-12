@@ -36,39 +36,7 @@ public class Player {
 	}
 
 	
-	private void getConfidenceFromBoard(Board b){
-		int in_a_row = 0;
-		float temp = 0;
-		int max_straight = 0;
-		//Data From Board variable
-		for(int i=0; i<b.board.size(); i++){
-			int of_a_kind = b.board.get(i).size();
-			if(of_a_kind>1){
-				//More of a kind are better
-				temp+=(of_a_kind*10)+i;
-			}
-			if(i>12){
-				//Kings and Aces are good
-				for(int j=0; j<b.board.get(i).size(); j++){
-					temp+=5;
-				}
-			}
-			if(of_a_kind>0){in_a_row++;}
-			else{in_a_row = 0;}
-			if(in_a_row > max_straight){max_straight = in_a_row;}
-		}
-		temp+=max_straight*6;
-		
-		//Data from Suit variables
-		int num_hearts = b.hearts.size();
-		int num_spades = b.spades.size();
-		int num_diamonds = b.spades.size();
-		int num_clubs = b.spades.size();
-		
-		int max_flush = Math.max(num_hearts, Math.max(num_spades, Math.max(num_diamonds, num_clubs)));
-		temp += Math.pow(4, max_flush);
-		confidence = temp;
-	}
+	
 	
 	/**
 	 * 
@@ -107,7 +75,7 @@ public class Player {
 					}
 					myBank = Integer.parseInt(words[7]);
 					otherBank = Integer.parseInt(words[8]);
-					getConfidenceFromBoard(myBoard);
+					confidence = myBoard.getConfidenceFromBoard();
 					System.out.println(confidence);
 				}
 				else if ("GETACTION".compareToIgnoreCase(words[0]) == 0) {
@@ -127,11 +95,13 @@ public class Player {
 						}
 						index += num_board_cards;
 					}
-					getConfidenceFromBoard(myBoard);
+					confidence = myBoard.getConfidenceFromBoard();
 
 					//Throw away last actions (can change this later)
 					//Skips over the interactions in this game
 					index += Integer.parseInt(words[index])+1;
+					
+					
 					ArrayList<String> actions = new ArrayList<String>();
 					if(index<words.length){
 						//Get possible actions
@@ -154,11 +124,27 @@ public class Player {
 								}
 								actions.add(temp);
 							}
+							else if(action.contains("BET:")){
+								String temp = "BET:";
+								//Break up the different raise amounts
+								for(int j=4; j<action.length(); j++){
+									if(action.charAt(j)==':'){
+										//end of number
+										actions.add(temp);
+										temp = "BET:";
+									}
+									else{
+										temp+=action.charAt(j);
+									}
+								}
+								actions.add(temp);
+							}
 							else{
 								actions.add(action);
 							}
 						}
 					}
+					System.out.println(actions.toString());
 					String out;
 					//If very confident: biggest raise
 					if(confidence>45 || pot_size>5){out = actions.remove(actions.size()-1);}
