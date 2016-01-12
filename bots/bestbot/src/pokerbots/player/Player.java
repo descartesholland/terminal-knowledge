@@ -47,6 +47,21 @@ public class Player {
 		confidence = temp;
 	}
 	
+	/**
+	 * 
+	 * @param raise "Raise:_____"
+	 * @return List of all the different raise moves possible
+	 */
+	private ArrayList<Integer> getRaisesFromString(String raise){
+		ArrayList<Integer> signals = new ArrayList<Integer>();
+		int index = raise.indexOf(':');
+		while (index >= 0) {
+			signals.add(index);
+		    index = raise.indexOf(':', index + 1);
+		}
+		return signals;
+	}
+	
 	public void run() {
 		String input;
 		try {
@@ -101,11 +116,23 @@ public class Player {
 						index++;
 						for(int i=0; i<num_actions; i++){
 							String action = words[index+i];
-							if(action.contains("RAISE:*:")){
-								//more than one raise option
-								for(i=6;i<action.length();i+=2){
-									actions.add("RAISE:"+action.charAt(i));
+							System.out.println(action);
+							
+							if(action.contains("RAISE:")){
+								String temp = "RAISE:";
+								//Break up the different raise amounts
+								for(int j=6; j<action.length(); j++){
+									System.out.println(action.charAt(j));
+									if(action.charAt(j)==':'){
+										//end of number
+										actions.add(temp);
+										temp = "RAISE:";
+									}
+									else{
+										temp+=action.charAt(j);
+									}
 								}
+								actions.add(temp);
 							}
 							else{
 								actions.add(action);
@@ -113,10 +140,17 @@ public class Player {
 						}
 					}
 					String out;
+					System.out.println(actions.toString());
 					//If very confident: biggest raise
-					if(confidence>45){out = actions.remove(actions.size()-1);}
+					if(confidence>45 || pot_size>5){out = actions.remove(actions.size()-1);}
 					//If semi-confident: second biggest raise/call/check
-					else if(confidence>25){out = actions.remove(actions.size()-2);}
+					else if(confidence>25){
+						if(num_board_cards==0 || (actions.size()-2)<1){
+							out = actions.remove(actions.size()-1);
+						}
+						else {out = actions.remove(actions.size()-2);}
+					}
+
 					//If not confident : random from remaining optional moves
 					else{
 						Random r = new Random();
