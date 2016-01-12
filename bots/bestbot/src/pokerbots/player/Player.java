@@ -40,8 +40,7 @@ public class Player {
 		for (int i = 0; i < hand.length; i++) {
 			  for (int j = i+1; j < hand.length; j++) {
 			    if(hand[i].rank.equals(hand[j].rank)){temp +=hand[i].value*2;}
-			    if(hand[i].suit.equals(hand[j].suit)){temp +=10;
-			    	System.out.println("SameSuitFound");}
+			    if(hand[i].suit.equals(hand[j].suit)){temp +=10;}
 			  }
 		}
 		if(button==true){temp+=15;}
@@ -114,8 +113,11 @@ public class Player {
 						}
 					}
 					String out;
+					//If very confident: biggest raise
 					if(confidence>45){out = actions.remove(actions.size()-1);}
+					//If semi-confident: second biggest raise/call/check
 					else if(confidence>25){out = actions.remove(actions.size()-2);}
+					//If not confident : random from remaining optional moves
 					else{
 						Random r = new Random();
 						int result = r.nextInt(actions.size());
@@ -125,6 +127,7 @@ public class Player {
 					
 				} 
 				else if ("HANDOVER".compareToIgnoreCase(words[0])==0){
+					//Create new board
 					myBoard = new Board();
 				}
 				else if ("REQUESTKEYVALUES".compareToIgnoreCase(words[0]) == 0) {
