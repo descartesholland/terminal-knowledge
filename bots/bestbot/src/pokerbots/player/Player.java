@@ -47,6 +47,8 @@ public class Player {
 		confidence = temp;
 	}
 	
+
+	
 	/**
 	 * 
 	 * @param raise "Raise:_____"
@@ -93,7 +95,6 @@ public class Player {
 					// The engine will ignore all spurious packets you send.
 					// The engine will also check/fold for you if you return an
 					// illegal action.
-					System.out.println(confidence);
 					int pot_size = Integer.parseInt(words[1]);
 					int num_board_cards = Integer.parseInt(words[2]);
 					Card[] board_cards = new Card[num_board_cards];
@@ -115,14 +116,11 @@ public class Player {
 						int num_actions = Integer.parseInt(words[index]);
 						index++;
 						for(int i=0; i<num_actions; i++){
-							String action = words[index+i];
-							System.out.println(action);
-							
+							String action = words[index+i];							
 							if(action.contains("RAISE:")){
 								String temp = "RAISE:";
 								//Break up the different raise amounts
 								for(int j=6; j<action.length(); j++){
-									System.out.println(action.charAt(j));
 									if(action.charAt(j)==':'){
 										//end of number
 										actions.add(temp);
@@ -140,7 +138,6 @@ public class Player {
 						}
 					}
 					String out;
-					System.out.println(actions.toString());
 					//If very confident: biggest raise
 					if(confidence>45 || pot_size>5){out = actions.remove(actions.size()-1);}
 					//If semi-confident: second biggest raise/call/check
