@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# VIM
+*.swp
+
+# SCONS
+*.dblite
+/bin/
