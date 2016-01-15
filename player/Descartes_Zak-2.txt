@@ -2,981 +2,1058 @@
 Hand #1, Zak2 (0), Descartes2 (0)
 Zak2 posts the blind of 1
 Descartes2 posts the blind of 2
-Dealt to Zak2 [2h Kh 9c Tc]
-Dealt to Descartes2 [8d 8s 2c Td]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #2, Descartes2 (1), Zak2 (-1)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Jd 8h 7h 7d]
-Dealt to Zak2 [Td Qc Qh 6s]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [8d 4c Js]
-Zak2 checks
-Descartes2 checks
-*** TURN *** (4) [8d 4c Js] [Qd]
-Zak2 checks
-Descartes2 bets 2
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #3, Zak2 (-3), Descartes2 (3)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [3c Js 4c Jc]
-Dealt to Descartes2 [5c 2c Kc Kh]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #4, Descartes2 (4), Zak2 (-4)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Kh 3d 9h 8h]
-Dealt to Zak2 [6d 3s Kc 2h]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #5, Zak2 (-6), Descartes2 (6)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [8s 7c Jc Kh]
-Dealt to Descartes2 [7s 2h Kc Ac]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #6, Descartes2 (7), Zak2 (-7)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Ad 9c Ks 5c]
-Dealt to Zak2 [6d Kd 8d 3d]
+Dealt to Zak2 [2s 8h Kd 5h]
+Dealt to Descartes2 [Jd 2c 8d 3h]
+Zak2 raises to 6
 Descartes2 folds
-Zak2 wins the pot (3)
-
-Hand #7, Zak2 (-6), Descartes2 (6)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [5s 3c Kc 7h]
-Dealt to Descartes2 [8s 5h 2c 8c]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #8, Descartes2 (7), Zak2 (-7)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [9c 9d Jc 4c]
-Dealt to Zak2 [Kh 7d Ac Kc]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [6s Jh Qd]
-Zak2 checks
-Descartes2 checks
-*** TURN *** (4) [6s Jh Qd] [6c]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #9, Zak2 (-9), Descartes2 (9)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [3d Jh Kd 3h]
-Dealt to Descartes2 [8h 7h Qd Qs]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #10, Descartes2 (10), Zak2 (-10)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [8c 7h 6d 3c]
-Dealt to Zak2 [Kc 5h 2s Ad]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [Qc 7d 3h]
-Zak2 checks
-Descartes2 checks
-*** TURN *** (4) [Qc 7d 3h] [4s]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #11, Zak2 (-12), Descartes2 (12)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [9s Jd 5d 2d]
-Dealt to Descartes2 [3h Jc 8c Kc]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #12, Descartes2 (13), Zak2 (-13)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Ac 2c 9h 5s]
-Dealt to Zak2 [4h Kc 8c Jh]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #13, Zak2 (-15), Descartes2 (15)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Kh Js 8c Qh]
-Dealt to Descartes2 [2s 5c 5h Jc]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #14, Descartes2 (16), Zak2 (-16)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Td 5s 9s 7s]
-Dealt to Zak2 [Qs Tc 9h 4c]
-Descartes2 raises to 5
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #15, Zak2 (-18), Descartes2 (18)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [3h 9c Th Ac]
-Dealt to Descartes2 [2s Qh Ts 4h]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #16, Descartes2 (19), Zak2 (-19)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [6h 8d Js Th]
-Dealt to Zak2 [7c Ah Jd Kd]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [2d Ts 4h]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #17, Zak2 (-21), Descartes2 (21)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [8h Qh 8d 6c]
-Dealt to Descartes2 [4h 6d Ah 5s]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #18, Descartes2 (22), Zak2 (-22)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Ad 2h 2d Jc]
-Dealt to Zak2 [8s 8d Td 6h]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [6d Js Kc]
-Zak2 checks
-Descartes2 bets 2
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #19, Zak2 (-24), Descartes2 (24)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Qh Ac Kh Ts]
-Dealt to Descartes2 [2h 4h 2d 7d]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #20, Descartes2 (25), Zak2 (-25)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [7h Kd 4s 8c]
-Dealt to Zak2 [9s 9c 8d 2c]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [Js 4h Qc]
-Zak2 checks
-Descartes2 checks
-*** TURN *** (4) [Js 4h Qc] [Th]
-Zak2 checks
-Descartes2 checks
-*** RIVER *** (4) [Js 4h Qc Th] [Jd]
-Zak2 checks
-Descartes2 checks
-Descartes2 shows [7h Kd 4s 8c]
-Zak2 shows [9s 9c 8d 2c]
+Uncalled bet of 4 returned to Zak2
 Zak2 wins the pot (4)
 
-Hand #21, Zak2 (-23), Descartes2 (23)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Kc 8h Ac Td]
-Dealt to Descartes2 [Qh 4s Th 5h]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #22, Descartes2 (24), Zak2 (-24)
+Hand #2, Descartes2 (-2), Zak2 (2)
 Descartes2 posts the blind of 1
 Zak2 posts the blind of 2
-Dealt to Descartes2 [3s Kd 5s Js]
-Dealt to Zak2 [8d 2d Ah Kh]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [9s Qs 7d]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #23, Zak2 (-26), Descartes2 (26)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [8s Ts 4d 2c]
-Dealt to Descartes2 [9c Kd 5h 2s]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #24, Descartes2 (27), Zak2 (-27)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Js Qs As Th]
-Dealt to Zak2 [5s 8h Ts Kd]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #25, Zak2 (-29), Descartes2 (29)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Th 9c 7s Ad]
-Dealt to Descartes2 [8s 5s 6c Jc]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #26, Descartes2 (30), Zak2 (-30)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Ks 4d 6d Th]
-Dealt to Zak2 [Qh 6c Kd 7h]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [Tc Qc 8c]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #27, Zak2 (-32), Descartes2 (32)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [4s Ks Ad 3c]
-Dealt to Descartes2 [8c Kd 9c As]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #28, Descartes2 (33), Zak2 (-33)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [6c 6h 2h 4h]
-Dealt to Zak2 [8d 8c Kd Tc]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [7h 4d 2d]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #29, Zak2 (-35), Descartes2 (35)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [3c Jc Tc 3d]
-Dealt to Descartes2 [9c 3h Ac Th]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #30, Descartes2 (36), Zak2 (-36)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [6h 7s Ks Ac]
-Dealt to Zak2 [5h 4h 5d Jc]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [5s Tc 9s]
-Zak2 checks
-Descartes2 bets 2
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #31, Zak2 (-38), Descartes2 (38)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Kd 9h 5c 5h]
-Dealt to Descartes2 [8s 6d 6h 4h]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #32, Descartes2 (39), Zak2 (-39)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [8d 3h 4d 4s]
-Dealt to Zak2 [Ad Ks As Qs]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [7s 2s Ts]
-Zak2 checks
-Descartes2 bets 2
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #33, Zak2 (-41), Descartes2 (41)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Ts 9d 8d 6c]
-Dealt to Descartes2 [Th 2h Ac Kc]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #34, Descartes2 (42), Zak2 (-42)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [5d 6h 9s Ac]
-Dealt to Zak2 [7s Ah Ts 8c]
+Dealt to Descartes2 [8d Qh 5d 4c]
+Dealt to Zak2 [Ac 3h Jd Jc]
+Descartes2 raises to 6
+Zak2 raises to 18
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
 
-Hand #35, Zak2 (-41), Descartes2 (41)
+Hand #3, Zak2 (8), Descartes2 (-8)
 Zak2 posts the blind of 1
 Descartes2 posts the blind of 2
-Dealt to Zak2 [6h 4s Kc 5h]
-Dealt to Descartes2 [2s 5s 7c Td]
+Dealt to Zak2 [Js 2h Qh Kd]
+Dealt to Descartes2 [Qd 8d Jh 8c]
 Zak2 folds
 Descartes2 wins the pot (3)
 
-Hand #36, Descartes2 (42), Zak2 (-42)
+Hand #4, Descartes2 (-7), Zak2 (7)
 Descartes2 posts the blind of 1
 Zak2 posts the blind of 2
-Dealt to Descartes2 [Ac 2s 7h Ks]
-Dealt to Zak2 [2d Kc 2h Jc]
-Descartes2 raises to 5
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #37, Zak2 (-44), Descartes2 (44)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [8d Qh 6h 4c]
-Dealt to Descartes2 [7c Kc 7h 9c]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #38, Descartes2 (45), Zak2 (-45)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [3h 6c Ah 8s]
-Dealt to Zak2 [Qd Js 9c Ad]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #39, Zak2 (-47), Descartes2 (47)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [4d 4s Qd 3d]
-Dealt to Descartes2 [Kc Jc Qc 5s]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #40, Descartes2 (48), Zak2 (-48)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [2h 3h Tc Jh]
-Dealt to Zak2 [Ks 3s 8h 3c]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #41, Zak2 (-50), Descartes2 (50)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Kc 2h Ts 7c]
-Dealt to Descartes2 [9s 5h 2d 9h]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #42, Descartes2 (51), Zak2 (-51)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Ts 2d 2s Jc]
-Dealt to Zak2 [9h 2c 4d 7d]
-Descartes2 raises to 5
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #43, Zak2 (-53), Descartes2 (53)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [5h 8h 5d Ah]
-Dealt to Descartes2 [9h 5c 7h Qs]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #44, Descartes2 (54), Zak2 (-54)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [5c 6d Td As]
-Dealt to Zak2 [Tc Jc Js Qs]
+Dealt to Descartes2 [5h 7h Tc Qh]
+Dealt to Zak2 [Kh 4d 9s Kc]
+Descartes2 raises to 6
+Zak2 raises to 18
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
 
-Hand #45, Zak2 (-53), Descartes2 (53)
+Hand #5, Zak2 (13), Descartes2 (-13)
 Zak2 posts the blind of 1
 Descartes2 posts the blind of 2
-Dealt to Zak2 [8s 5s Th 6d]
-Dealt to Descartes2 [Kd 4h As 9h]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #46, Descartes2 (54), Zak2 (-54)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Qs Td Qc Ah]
-Dealt to Zak2 [4c 6s 5c 3d]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #47, Zak2 (-56), Descartes2 (56)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [7s 9h Qd 9c]
-Dealt to Descartes2 [2s 6h 9d Td]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #48, Descartes2 (57), Zak2 (-57)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [2h 3h Ad Jc]
-Dealt to Zak2 [6h 9s 2c 8h]
-Descartes2 raises to 5
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #49, Zak2 (-59), Descartes2 (59)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [7d 4d 8d Ac]
-Dealt to Descartes2 [3h 4h 2h 4c]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #50, Descartes2 (60), Zak2 (-60)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Th 9s Qd 5s]
-Dealt to Zak2 [9h Kd Ah 7d]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #51, Zak2 (-62), Descartes2 (62)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [3h Th 5c 4c]
-Dealt to Descartes2 [7d Jc As 6c]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #52, Descartes2 (63), Zak2 (-63)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Js 7d 8d 9d]
-Dealt to Zak2 [Ts 9c 4c Qd]
+Dealt to Zak2 [Ad 4d Kh 8c]
+Dealt to Descartes2 [Ac 7c 2d Ks]
+Zak2 raises to 4
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
 
-Hand #53, Zak2 (-62), Descartes2 (62)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [2c 8s 3d 6c]
-Dealt to Descartes2 [4h Ks 6s Kc]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #54, Descartes2 (63), Zak2 (-63)
+Hand #6, Descartes2 (-15), Zak2 (15)
 Descartes2 posts the blind of 1
 Zak2 posts the blind of 2
-Dealt to Descartes2 [Qd 5c Ac 8d]
-Dealt to Zak2 [Kd 7h 7s 6d]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #55, Zak2 (-65), Descartes2 (65)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [6s Kd Qh 5d]
-Dealt to Descartes2 [Qs Jc 8c 6h]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #56, Descartes2 (66), Zak2 (-66)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Th 8h 4h Jc]
-Dealt to Zak2 [6c Qh Ad 5d]
+Dealt to Descartes2 [Qs 3h Th 3c]
+Dealt to Zak2 [Jh Ad Kh Jd]
+Descartes2 raises to 6
+Zak2 raises to 18
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
 
-Hand #57, Zak2 (-65), Descartes2 (65)
+Hand #7, Zak2 (21), Descartes2 (-21)
 Zak2 posts the blind of 1
 Descartes2 posts the blind of 2
-Dealt to Zak2 [Ac 5h 4s Qs]
-Dealt to Descartes2 [Ah 3d 6c Jh]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #58, Descartes2 (66), Zak2 (-66)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [9c Kc 7h 2d]
-Dealt to Zak2 [8s Td 3h 4h]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #59, Zak2 (-68), Descartes2 (68)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Td As 8c Tc]
-Dealt to Descartes2 [Qs 2s 4c 9d]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #60, Descartes2 (69), Zak2 (-69)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [8c 9h 6c Qs]
-Dealt to Zak2 [5h Ad Ah 2s]
-Descartes2 raises to 5
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #61, Zak2 (-71), Descartes2 (71)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Kc Jd Jh 3h]
-Dealt to Descartes2 [5h 8d 9c 9s]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #62, Descartes2 (72), Zak2 (-72)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [8c Qh 7c 6c]
-Dealt to Zak2 [4h 2h 7d Kh]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [Tc Kd 3s]
-Zak2 checks
-Descartes2 bets 2
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #63, Zak2 (-74), Descartes2 (74)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [7d 7c 3c Tc]
-Dealt to Descartes2 [2s Kh 4h Ad]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #64, Descartes2 (75), Zak2 (-75)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Qh 3s Qc Ks]
-Dealt to Zak2 [Th Js 9c 9h]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [3h 8d 7s]
-Zak2 checks
-Descartes2 checks
-*** TURN *** (4) [3h 8d 7s] [8s]
-Zak2 checks
-Descartes2 checks
-*** RIVER *** (4) [3h 8d 7s 8s] [Ad]
-Zak2 checks
-Descartes2 checks
-Descartes2 shows [Qh 3s Qc Ks]
-Zak2 shows [Th Js 9c 9h]
-Descartes2 wins the pot (4)
-
-Hand #65, Zak2 (-77), Descartes2 (77)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [6s 8d 8c 5d]
-Dealt to Descartes2 [Kh 4c Ks 2d]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #66, Descartes2 (78), Zak2 (-78)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [As 4h Qh Js]
-Dealt to Zak2 [9d 5s Jd 4d]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [Ac Td 7h]
-Zak2 checks
-Descartes2 checks
-*** TURN *** (4) [Ac Td 7h] [Ks]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #67, Zak2 (-80), Descartes2 (80)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Kh Ts Qh Jd]
-Dealt to Descartes2 [Js Th 7h 3c]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #68, Descartes2 (81), Zak2 (-81)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Ks 7h 2c 6h]
-Dealt to Zak2 [3c Qc 4d 2d]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [Qh Jc Th]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #69, Zak2 (-83), Descartes2 (83)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Qs 5s 5d Qh]
-Dealt to Descartes2 [4s Tc 2h As]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #70, Descartes2 (84), Zak2 (-84)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [5h 5c 8h Jc]
-Dealt to Zak2 [8d Kd Ac 7h]
+Dealt to Zak2 [Kd Td 7c 6c]
+Dealt to Descartes2 [3s Ac Qh 6h]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
 
-Hand #71, Zak2 (-83), Descartes2 (83)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Ac 4c Kh 9s]
-Dealt to Descartes2 [6d 8d 2h Th]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #72, Descartes2 (84), Zak2 (-84)
+Hand #8, Descartes2 (-27), Zak2 (27)
 Descartes2 posts the blind of 1
 Zak2 posts the blind of 2
-Dealt to Descartes2 [As 7h Td 5s]
-Dealt to Zak2 [Ad 2h 9c 5h]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #73, Zak2 (-86), Descartes2 (86)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [2c 6h Ks 9c]
-Dealt to Descartes2 [9h Qh 7h 5c]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #74, Descartes2 (87), Zak2 (-87)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [4c Ad 9c 2c]
-Dealt to Zak2 [Js Qd Jh Ah]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [Ac Jd Qc]
-Zak2 checks
-Descartes2 checks
-*** TURN *** (4) [Ac Jd Qc] [3s]
-Zak2 checks
-Descartes2 bets 2
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #75, Zak2 (-89), Descartes2 (89)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [6h 9d Kh 8c]
-Dealt to Descartes2 [3s Ts Qs As]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #76, Descartes2 (90), Zak2 (-90)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [4h 3c 2d 9s]
-Dealt to Zak2 [5h 9h 4c Ks]
+Dealt to Descartes2 [Js Jd Qc Ah]
+Dealt to Zak2 [Th Ad 4d 7h]
+Descartes2 raises to 6
+Zak2 raises to 18
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
 
-Hand #77, Zak2 (-89), Descartes2 (89)
+Hand #9, Zak2 (33), Descartes2 (-33)
 Zak2 posts the blind of 1
 Descartes2 posts the blind of 2
-Dealt to Zak2 [Jh 3c 8d 5s]
-Dealt to Descartes2 [Kh 3s 9s 5h]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #78, Descartes2 (90), Zak2 (-90)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Ts 5c Kd 3d]
-Dealt to Zak2 [4d 3h Kc Kh]
-Descartes2 raises to 5
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #79, Zak2 (-92), Descartes2 (92)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Qd Ts 4s Qs]
-Dealt to Descartes2 [Ac 3d Ad 7h]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #80, Descartes2 (93), Zak2 (-93)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [8c 2c 6h 5s]
-Dealt to Zak2 [Js 4h 7c 8s]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [Jc Ad 2h]
-Zak2 checks
-Descartes2 bets 2
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #81, Zak2 (-95), Descartes2 (95)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [5h 5s Kh Qs]
-Dealt to Descartes2 [8d 9s 4h Ac]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #82, Descartes2 (96), Zak2 (-96)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [9c 7c 2c 4c]
-Dealt to Zak2 [6s Qc 2h Js]
-Descartes2 raises to 5
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #83, Zak2 (-98), Descartes2 (98)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [7d 8c Ah 3s]
-Dealt to Descartes2 [Jc 2c Jh 9d]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #84, Descartes2 (99), Zak2 (-99)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [9s 6d Tc Jh]
-Dealt to Zak2 [Ah 2h Jd Kh]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #85, Zak2 (-101), Descartes2 (101)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [4s Ah 5s 7s]
-Dealt to Descartes2 [Th 9h Td Qd]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #86, Descartes2 (102), Zak2 (-102)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [7s 7d 5h Kc]
-Dealt to Zak2 [Td 3c 5s 2h]
-Descartes2 raises to 5
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #87, Zak2 (-104), Descartes2 (104)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Ah Kc Td 3c]
-Dealt to Descartes2 [Js Jh 5c 4c]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #88, Descartes2 (105), Zak2 (-105)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Ad 2d Jh Qc]
-Dealt to Zak2 [Ts 4h 5s 3s]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [Js 2c 7c]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #89, Zak2 (-107), Descartes2 (107)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [3c Qs 8c 3s]
-Dealt to Descartes2 [Ks 2d 9s Ah]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #90, Descartes2 (108), Zak2 (-108)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Kd Qc Ah 3c]
-Dealt to Zak2 [5d Jd 5s 6h]
+Dealt to Zak2 [Qc 5h 7s 4d]
+Dealt to Descartes2 [6d Tc Td 9s]
+Zak2 raises to 6
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 4 returned to Zak2
+Zak2 wins the pot (4)
 
-Hand #91, Zak2 (-107), Descartes2 (107)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Kd Td 5h 3h]
-Dealt to Descartes2 [7c 6c Ac 3c]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #92, Descartes2 (108), Zak2 (-108)
+Hand #10, Descartes2 (-35), Zak2 (35)
 Descartes2 posts the blind of 1
 Zak2 posts the blind of 2
-Dealt to Descartes2 [Js 5d Qs 8s]
-Dealt to Zak2 [2d 7c As Th]
-Descartes2 calls
-Zak2 checks
-*** FLOP *** (4) [8h Tc 7d]
-Zak2 checks
-Descartes2 bets 3
-Zak2 folds
-Uncalled bet of 3 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #93, Zak2 (-110), Descartes2 (110)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [7d Jd 6d 8s]
-Dealt to Descartes2 [8c Qc 9c Ks]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #94, Descartes2 (111), Zak2 (-111)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [9c Qd Tc 9s]
-Dealt to Zak2 [3d Kd 5s 8s]
+Dealt to Descartes2 [As Jc Kd 7c]
+Dealt to Zak2 [Ah 9d 3c 4s]
+Descartes2 raises to 6
+Zak2 raises to 18
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
 
-Hand #95, Zak2 (-110), Descartes2 (110)
+Hand #11, Zak2 (41), Descartes2 (-41)
 Zak2 posts the blind of 1
 Descartes2 posts the blind of 2
-Dealt to Zak2 [9h Tc Kc 7d]
-Dealt to Descartes2 [3c 9d Kd 2h]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #96, Descartes2 (111), Zak2 (-111)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [Ks 8c 4c 8s]
-Dealt to Zak2 [3c 8h 4d Qd]
+Dealt to Zak2 [3s 5s Qd As]
+Dealt to Descartes2 [6d 7h Kh 3h]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
 
-Hand #97, Zak2 (-110), Descartes2 (110)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [Ad 7s 3c 5d]
-Dealt to Descartes2 [3d Td 2s Tc]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #98, Descartes2 (111), Zak2 (-111)
+Hand #12, Descartes2 (-47), Zak2 (47)
 Descartes2 posts the blind of 1
 Zak2 posts the blind of 2
-Dealt to Descartes2 [2s Kc 5h 9d]
-Dealt to Zak2 [Tc 3c 8c Ah]
-Descartes2 raises to 4
-Zak2 folds
-Uncalled bet of 2 returned to Descartes2
-Descartes2 wins the pot (4)
-
-Hand #99, Zak2 (-113), Descartes2 (113)
-Zak2 posts the blind of 1
-Descartes2 posts the blind of 2
-Dealt to Zak2 [8c 9s Jd As]
-Dealt to Descartes2 [Th 7d Qc 9c]
-Zak2 folds
-Descartes2 wins the pot (3)
-
-Hand #100, Descartes2 (114), Zak2 (-114)
-Descartes2 posts the blind of 1
-Zak2 posts the blind of 2
-Dealt to Descartes2 [5s 9h 7c Jd]
-Dealt to Zak2 [8s Kh Tc 4h]
+Dealt to Descartes2 [7h 8h Kh 5d]
+Dealt to Zak2 [9h 9s 2s Th]
+Descartes2 raises to 6
+Zak2 raises to 18
 Descartes2 folds
-Zak2 wins the pot (3)
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #13, Zak2 (53), Descartes2 (-53)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [9c 4d 4s Ks]
+Dealt to Descartes2 [Qd Qc 5d 8h]
+Zak2 raises to 6
+Descartes2 folds
+Uncalled bet of 4 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #14, Descartes2 (-55), Zak2 (55)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Qc Kh Qh 5c]
+Dealt to Zak2 [Ac 8c Ts 7s]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #15, Zak2 (61), Descartes2 (-61)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [4h Kc 9d 6h]
+Dealt to Descartes2 [8c 9s 7s Ks]
+Zak2 raises to 6
+Descartes2 folds
+Uncalled bet of 4 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #16, Descartes2 (-63), Zak2 (63)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Th 5d Qs As]
+Dealt to Zak2 [7c Tc 9c 4s]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #17, Zak2 (69), Descartes2 (-69)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [4c Ac Qs Th]
+Dealt to Descartes2 [6h 5h Ad Kh]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #18, Descartes2 (-71), Zak2 (71)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Kc 5d Jh Jc]
+Dealt to Zak2 [Tc As 3d 6h]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #19, Zak2 (77), Descartes2 (-77)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Qc 7d Ah As]
+Dealt to Descartes2 [2h 9s Kh Qd]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #20, Descartes2 (-83), Zak2 (83)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [5h Td 3d Kh]
+Dealt to Zak2 [Jc 8c 6d Kc]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #21, Zak2 (89), Descartes2 (-89)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [6s As 6d 6h]
+Dealt to Descartes2 [5s 2h Ac Kd]
+Zak2 folds
+Descartes2 wins the pot (3)
+
+Hand #22, Descartes2 (-88), Zak2 (88)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Ks Th 2h Ad]
+Dealt to Zak2 [6s Qd 8c 6c]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #23, Zak2 (94), Descartes2 (-94)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Ts Ac 9h Js]
+Dealt to Descartes2 [7d Qc 6c 8h]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #24, Descartes2 (-96), Zak2 (96)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [5s Tc Ks 4h]
+Dealt to Zak2 [9c 6c 9h 3s]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #25, Zak2 (102), Descartes2 (-102)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [4d 7s 8c Ac]
+Dealt to Descartes2 [Tc 2c Qh Kh]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #26, Descartes2 (-108), Zak2 (108)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [8s Td 6h Ts]
+Dealt to Zak2 [9h 7d 4d 9d]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #27, Zak2 (114), Descartes2 (-114)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [4s Qh As 7c]
+Dealt to Descartes2 [3h Ad 3s Qd]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #28, Descartes2 (-116), Zak2 (116)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Kc 2s 3c Qc]
+Dealt to Zak2 [8d Ks Qs Ac]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #29, Zak2 (122), Descartes2 (-122)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Qc 6d Kh 7s]
+Dealt to Descartes2 [Qh 8h 8c Qd]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #30, Descartes2 (-124), Zak2 (124)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [7d 9c Jh 5d]
+Dealt to Zak2 [5c As 5h 6h]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #31, Zak2 (130), Descartes2 (-130)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Ts Jd Js 7h]
+Dealt to Descartes2 [Ks 5d Th Td]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #32, Descartes2 (-132), Zak2 (132)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Js 4d Ks 4c]
+Dealt to Zak2 [2d Qs 9c Th]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #33, Zak2 (138), Descartes2 (-138)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [8s 8h 3d 2d]
+Dealt to Descartes2 [7c 7d 5d 9c]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #34, Descartes2 (-140), Zak2 (140)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Kd Tc 4d 5s]
+Dealt to Zak2 [4c As Qs Qc]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #35, Zak2 (146), Descartes2 (-146)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Qh 7s Qs 6c]
+Dealt to Descartes2 [8h Th Qc 2c]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #36, Descartes2 (-152), Zak2 (152)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [6s 4c 2h 4h]
+Dealt to Zak2 [8s Tc Qd 6d]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #37, Zak2 (158), Descartes2 (-158)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [4c Ad 9h 7d]
+Dealt to Descartes2 [4d 4s 7h 9c]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #38, Descartes2 (-164), Zak2 (164)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Ks Kh 9c Qc]
+Dealt to Zak2 [9s 3c Ts 8c]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #39, Zak2 (170), Descartes2 (-170)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [4s Ad 3s 5s]
+Dealt to Descartes2 [9h 4d 2c 7s]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #40, Descartes2 (-176), Zak2 (176)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [4d 8c Tc 7h]
+Dealt to Zak2 [8d Qs 6c 3s]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #41, Zak2 (182), Descartes2 (-182)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [3d Kc 6s Kd]
+Dealt to Descartes2 [4d Qs Js 3s]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #42, Descartes2 (-184), Zak2 (184)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Td 6d 9d Jc]
+Dealt to Zak2 [6c 5h 9c Js]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #43, Zak2 (190), Descartes2 (-190)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [3c Ad Kd Ks]
+Dealt to Descartes2 [4h Jc 2h Jh]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #44, Descartes2 (-192), Zak2 (192)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [9s 3c Qh Kh]
+Dealt to Zak2 [2s 4h 9d Kc]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #45, Zak2 (198), Descartes2 (-198)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [9h 5c 7d Ad]
+Dealt to Descartes2 [Ts As Kh 3h]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #46, Descartes2 (-200), Zak2 (200)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Ah Js Th 8s]
+Dealt to Zak2 [8h 7h 2s 4d]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #47, Zak2 (206), Descartes2 (-206)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [3s 8s 9h 5h]
+Dealt to Descartes2 [Ad 4s 2c 7s]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #48, Descartes2 (-208), Zak2 (208)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [8h Ad 2c 6h]
+Dealt to Zak2 [9h 9d 4s 8d]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #49, Zak2 (214), Descartes2 (-214)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [7h 9d 3h 9c]
+Dealt to Descartes2 [9h 9s Ks 5c]
+Zak2 raises to 6
+Descartes2 folds
+Uncalled bet of 4 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #50, Descartes2 (-216), Zak2 (216)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [6s Ac 3s 4c]
+Dealt to Zak2 [5c 8s 2h As]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #51, Zak2 (222), Descartes2 (-222)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [6d 7d 7h 6h]
+Dealt to Descartes2 [As Jd Ad Td]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #52, Descartes2 (-228), Zak2 (228)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [7c 5s Jh Qh]
+Dealt to Zak2 [As Kc 4c Tc]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #53, Zak2 (234), Descartes2 (-234)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [6h 8d Ah Qs]
+Dealt to Descartes2 [2s Qd 6c 5s]
+Zak2 folds
+Descartes2 wins the pot (3)
+
+Hand #54, Descartes2 (-233), Zak2 (233)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [3s Qh Ah Ac]
+Dealt to Zak2 [Th Ts Jh Jd]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #55, Zak2 (239), Descartes2 (-239)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Qc 8d 4s 3c]
+Dealt to Descartes2 [3h 2d 2s 6s]
+Zak2 folds
+Descartes2 wins the pot (3)
+
+Hand #56, Descartes2 (-238), Zak2 (238)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [2s Th 4h 6d]
+Dealt to Zak2 [Kh 6h 8h Qd]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #57, Zak2 (244), Descartes2 (-244)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [4s 4c Jc 3d]
+Dealt to Descartes2 [6s Ts 3c 5h]
+Zak2 raises to 6
+Descartes2 folds
+Uncalled bet of 4 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #58, Descartes2 (-246), Zak2 (246)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [9s 4s Ts 4d]
+Dealt to Zak2 [9d Qh Kh 3d]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #59, Zak2 (252), Descartes2 (-252)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [3h 2h As Js]
+Dealt to Descartes2 [7h 2d 3d 2s]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #60, Descartes2 (-254), Zak2 (254)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [8c Ac 7d Kc]
+Dealt to Zak2 [Qh As Kh 6d]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #61, Zak2 (260), Descartes2 (-260)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Th 9d Ac 4s]
+Dealt to Descartes2 [Qs 7h 6d Jd]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #62, Descartes2 (-262), Zak2 (262)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Kh Kd 5h Kc]
+Dealt to Zak2 [Ks Qh 6d 8h]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #63, Zak2 (268), Descartes2 (-268)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Ks Td 3s 5h]
+Dealt to Descartes2 [9c Kc 4d 7s]
+Zak2 folds
+Descartes2 wins the pot (3)
+
+Hand #64, Descartes2 (-267), Zak2 (267)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Qs Qh Ac 5d]
+Dealt to Zak2 [Jd Kc 9d Ah]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #65, Zak2 (273), Descartes2 (-273)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Kh 6c Kc Qh]
+Dealt to Descartes2 [2c 5c Jh 4c]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #66, Descartes2 (-279), Zak2 (279)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [3s Qh Td 5h]
+Dealt to Zak2 [9s Ad 2d 7s]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #67, Zak2 (285), Descartes2 (-285)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Th Ad 5d 7c]
+Dealt to Descartes2 [2s 4d Jd 3c]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #68, Descartes2 (-291), Zak2 (291)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [2d Ad Qc 5d]
+Dealt to Zak2 [9h Js 8h Jd]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #69, Zak2 (297), Descartes2 (-297)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Ks 4s Th 5h]
+Dealt to Descartes2 [Qs 9s 9c 9h]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #70, Descartes2 (-299), Zak2 (299)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [5d 3d 9s Qd]
+Dealt to Zak2 [Th Ts 3c Ah]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #71, Zak2 (305), Descartes2 (-305)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [4d Qc 3s Jd]
+Dealt to Descartes2 [4s 4c Th 8s]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #72, Descartes2 (-307), Zak2 (307)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Ad 8h Ts 6d]
+Dealt to Zak2 [8c Qc 9h Kc]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #73, Zak2 (313), Descartes2 (-313)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Ts 9h Ad 7d]
+Dealt to Descartes2 [8s 6d Qh Kd]
+Zak2 raises to 6
+Descartes2 folds
+Uncalled bet of 4 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #74, Descartes2 (-315), Zak2 (315)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [3h 4s Td 2s]
+Dealt to Zak2 [Qd 5c 6s 4d]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #75, Zak2 (321), Descartes2 (-321)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [2h 7s Tc 4d]
+Dealt to Descartes2 [8h 2s Qc Jh]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #76, Descartes2 (-323), Zak2 (323)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Kc 3s 9c Ks]
+Dealt to Zak2 [6c 3h 2d Jc]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #77, Zak2 (329), Descartes2 (-329)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Ts Qs 8d 5h]
+Dealt to Descartes2 [2h Ac Jh 7c]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #78, Descartes2 (-331), Zak2 (331)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [3d As 7c 8d]
+Dealt to Zak2 [2c Qs Ks 6c]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #79, Zak2 (337), Descartes2 (-337)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Td Jc 5s Ks]
+Dealt to Descartes2 [Ah 6c 3d Kh]
+Zak2 raises to 6
+Descartes2 folds
+Uncalled bet of 4 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #80, Descartes2 (-339), Zak2 (339)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [2c 4h 9h 4s]
+Dealt to Zak2 [Jd 6d 5c 5d]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #81, Zak2 (345), Descartes2 (-345)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Qd 7d 9c 9h]
+Dealt to Descartes2 [5h 3c Ad Kc]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #82, Descartes2 (-351), Zak2 (351)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [9c Ac 5c Kh]
+Dealt to Zak2 [7h 7d 8c Ah]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #83, Zak2 (357), Descartes2 (-357)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Ac 3c Td Kh]
+Dealt to Descartes2 [5h 3d Tc As]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #84, Descartes2 (-359), Zak2 (359)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Td Th Js Qs]
+Dealt to Zak2 [5d 6s 8c 7s]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #85, Zak2 (365), Descartes2 (-365)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [7h Ts 8c Kc]
+Dealt to Descartes2 [7s Jc Ac 7d]
+Zak2 raises to 6
+Descartes2 folds
+Uncalled bet of 4 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #86, Descartes2 (-367), Zak2 (367)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [6c Th Qd 9d]
+Dealt to Zak2 [4s Jh 9s 8d]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #87, Zak2 (373), Descartes2 (-373)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [6d 4d 3c Qh]
+Dealt to Descartes2 [Ks 6c Jc Kh]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #88, Descartes2 (-375), Zak2 (375)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Jc 2c 3h Jh]
+Dealt to Zak2 [Qc 6c Ks Jd]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #89, Zak2 (381), Descartes2 (-381)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [5s 4s 5h Qs]
+Dealt to Descartes2 [Qc Qh 9s 3c]
+Zak2 raises to 6
+Descartes2 folds
+Uncalled bet of 4 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #90, Descartes2 (-383), Zak2 (383)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [8s Jh Td 5h]
+Dealt to Zak2 [Qs 9h 9c 2s]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #91, Zak2 (389), Descartes2 (-389)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [Td 7d 7s As]
+Dealt to Descartes2 [4h 4d 5s 2s]
+Zak2 calls
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #92, Descartes2 (-395), Zak2 (395)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [8s 4h Kc 8c]
+Dealt to Zak2 [9h 3d Qd 2c]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #93, Zak2 (401), Descartes2 (-401)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [8d Tc Jc Js]
+Dealt to Descartes2 [Qc 7s 4s 3s]
+Zak2 raises to 4
+Descartes2 folds
+Uncalled bet of 2 returned to Zak2
+Zak2 wins the pot (4)
+
+Hand #94, Descartes2 (-403), Zak2 (403)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [Js 2s Kd 5d]
+Dealt to Zak2 [3h 8s 5s 9h]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #95, Zak2 (409), Descartes2 (-409)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [5s 3d Ad Qs]
+Dealt to Descartes2 [Kd 9d 9h Th]
+Zak2 folds
+Descartes2 wins the pot (3)
+
+Hand #96, Descartes2 (-408), Zak2 (408)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [5d 8d Ac 5h]
+Dealt to Zak2 [6h 2h 9s 8c]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #97, Zak2 (414), Descartes2 (-414)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [9s Ah Ac 3h]
+Dealt to Descartes2 [6h 6d Ks 2d]
+Zak2 folds
+Descartes2 wins the pot (3)
+
+Hand #98, Descartes2 (-413), Zak2 (413)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [6h Tc Ts 7c]
+Dealt to Zak2 [6s Kc 2h 3h]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
+
+Hand #99, Zak2 (419), Descartes2 (-419)
+Zak2 posts the blind of 1
+Descartes2 posts the blind of 2
+Dealt to Zak2 [2d Qs 3c 9c]
+Dealt to Descartes2 [3s Td 9d 8h]
+Zak2 folds
+Descartes2 wins the pot (3)
+
+Hand #100, Descartes2 (-418), Zak2 (418)
+Descartes2 posts the blind of 1
+Zak2 posts the blind of 2
+Dealt to Descartes2 [3c 9d Kh Kd]
+Dealt to Zak2 [5s 2h Kc Js]
+Descartes2 raises to 6
+Zak2 raises to 18
+Descartes2 folds
+Uncalled bet of 12 returned to Zak2
+Zak2 wins the pot (12)
 

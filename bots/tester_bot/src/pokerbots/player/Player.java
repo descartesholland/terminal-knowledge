@@ -145,9 +145,9 @@ public class Player {
 					}
 					String out;
 					//If very confident: biggest raise
-					if(confidence>45 || pot_size>5){out = actions.remove(actions.size()-1);}
+					if(confidence>60 || pot_size>5){out = actions.remove(actions.size()-1);}
 					//If semi-confident: second biggest raise/call/check
-					else if(confidence>25){
+					else if(confidence>30){
 						if(num_board_cards==0 || (actions.size()-2)<1){
 							out = actions.remove(actions.size()-1);
 						}
