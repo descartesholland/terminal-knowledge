@@ -147,14 +147,14 @@ public class Player {
 					//If very confident: biggest raise
 					if(confidence>45 || pot_size<5){out = actions.remove(actions.size()-1);}
 					//If semi-confident: second biggest raise/call/check
-					/*
+					
 					else if(confidence>25){
 						if(num_board_cards==0 || (actions.size()-2)<1){
 							out = actions.remove(actions.size()-1);
 						}
 						else {out = actions.remove(actions.size()-2);}
 					}
-					*/
+					
 					else if(confidence<15){out = actions.remove(0);}
 					//If not confident : random from remaining optional moves
 					else{
