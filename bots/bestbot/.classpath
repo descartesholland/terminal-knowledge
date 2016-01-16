@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="pbots_calc"/>
+	<classpathentry kind="src" path="pokerbots/player"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/descartes/Desktop/pbots_calc-master/java/jnaerator-0.11-SNAPSHOT-20121008.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

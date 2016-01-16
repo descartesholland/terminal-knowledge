@@ -75,7 +75,7 @@ public class Player {
 					}
 					myBank = Integer.parseInt(words[7]);
 					otherBank = Integer.parseInt(words[8]);
-					confidence = myBoard.getConfidenceFromBoard();
+					confidence = myBoard.getConfidenceFromBoard(getHandsString(), "xx", myBoard.getCards());
 					System.out.println(confidence);
 				}
 				else if ("GETACTION".compareToIgnoreCase(words[0]) == 0) {
@@ -95,7 +95,7 @@ public class Player {
 						}
 						index += num_board_cards;
 					}
-					confidence = myBoard.getConfidenceFromBoard();
+					confidence = myBoard.getConfidenceFromBoard(getHandsString(), "xx", myBoard.getCards());
 
 					//Throw away last actions (can change this later)
 					//Skips over the interactions in this game
@@ -189,6 +189,10 @@ public class Player {
 			System.out.println("Encounterd problem shutting down connections");
 			e.printStackTrace();
 		}
+	}
+
+	private String getHandsString() {
+		return hand[0].toString() + hand[1].toString() + hand[2].toString() + hand[3].toString();
 	}
 
 }

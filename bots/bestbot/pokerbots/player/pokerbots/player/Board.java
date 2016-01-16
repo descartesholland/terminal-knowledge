@@ -2,6 +2,12 @@ package pokerbots.player;
 
 import java.util.ArrayList;
 
+import org.bridj.Pointer;
+
+import pbots_calc.Pbots_calcLibrary;
+import pbots_calc.Pbots_calcResults;
+import pbots_calc.Results;
+
 public class Board {
 	public ArrayList<ArrayList<Card>> board = new ArrayList<ArrayList<Card>>();
 	public ArrayList<Card> hearts = new ArrayList<Card>();
@@ -42,7 +48,7 @@ public class Board {
 		}
 	}
 	
-	public float getConfidenceFromBoard(){
+	public float getConfidenceFromBoardOld(){
 		int in_a_row = 0;
 		float temp = 0;
 		int max_straight = 0;
@@ -75,5 +81,46 @@ public class Board {
 		temp += Math.pow(4, max_flush);
 		confidence = temp;
 		return confidence;
+	}
+	public float getConfidenceFromBoard(String... input) {
+		int ans = 0;
+		
+		String board = "";
+		String dead = "";
+		if (input.length >= 2) {
+			board = input[1];
+			if (input.length >= 3) {
+				dead = input[2];
+			}
+		}
+		Results r = calc(input[0], board, dead, 1000000);
+		for (int i = 0; i < r.getSize(); i++) {
+			System.out.println(r.getHands().get(i) + ":" + r.getEv().get(i));
+		}
+		
+		return ans;
+	}
+	
+	public String getCards() {
+		String ans = "";
+		for(ArrayList<Card> cardList : this.board) {
+			for(Card c : cardList) {
+				ans+= c.toString();
+			}
+		}
+		return ans;
+	}
+	
+	public static Results calc(String hands, String board, String dead,
+			int iters) {
+		Pointer<Pbots_calcResults> res = Pbots_calcLibrary.alloc_results();
+		Results results = null;
+		if (Pbots_calcLibrary.calc(Pointer.pointerToCString(hands),
+				Pointer.pointerToCString(board),
+				Pointer.pointerToCString(dead), iters, res) > 0) {
+			results = new Results(res.get());
+		}
+		Pbots_calcLibrary.free_results(res);
+		return results;
 	}
 }
