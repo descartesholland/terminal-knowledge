@@ -25,7 +25,15 @@ public class Player {
 	private int myBank,otherBank;
 	
 	private float confidence;
-
+	
+	private ArrayList<Integer> wins;
+	private int no_wins = 0;
+	
+	private ArrayList<Integer> losses;
+	private int no_losses = 0;
+	
+	private int no_ties = 0;
+	
 	public Player(PrintWriter output, BufferedReader input) {
 		this.outStream = output;
 		this.inStream = input;

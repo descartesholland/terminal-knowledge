@@ -25,19 +25,19 @@ public class Card {
 			value = val;
 		}
 		catch(NumberFormatException e){
-			if(rank == "T"){
+			if(rank.equalsIgnoreCase("T")){
 				value = 10;
 			}
-			else if(rank == "J"){
+			else if(rank.equalsIgnoreCase("J")){
 				value = 11;
 			}
-			else if(rank == "Q"){
+			else if(rank.equalsIgnoreCase("Q")){
 				value = 12;
 			}
-			else if(rank == "K"){
+			else if(rank.equalsIgnoreCase("K")){
 				value = 13;
 			}
-			else if(rank == "A"){
+			else if(rank.equalsIgnoreCase("A")){
 				value = 14;
 			}
 		}
