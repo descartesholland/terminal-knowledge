@@ -125,16 +125,20 @@ public class Player {
 					num_board_cards = Integer.parseInt(words[2]);
 					//Get the cards on the board, if there are any
 					int index = 3;
+					for(Card card:hand){
+						myBoard.addCard(card);
+					}
 					if(num_board_cards!=0){
 						for(int i=0;i<num_board_cards;i++){
 							myBoard.addCard(getCardFromString(words[index+i]));
 						}
 						index += num_board_cards;
 					}
+					confidence = myBoard.confidence;
 					//Throw away last actions (can change this later)
 					//Skips over the interactions in this game
+					System.out.println(myBoard.max_of_a_kind);
 					index += Integer.parseInt(words[index])+1;
-					
 					
 					//Get moves possible
 					ArrayList<String> actions = getActionsFromWords(words, index);

@@ -10,6 +10,9 @@ public class Board {
 	public ArrayList<Card> clubs = new ArrayList<Card>();
 	public ArrayList<Card> diamonds = new ArrayList<Card>();
 	
+	int max_straight = 0;
+	int max_of_a_kind = 0;
+	
 	public boolean button;
 	public float confidence;
 
@@ -48,7 +51,7 @@ public class Board {
 	public float getConfidenceFromBoard(){
 		int in_a_row = 0;
 		float temp = 0;
-		int max_straight = 0;
+		
 		//Data From Board variable
 		for(int i=2; i<15; i++){
 			int of_a_kind = board.get(i).size();
@@ -63,8 +66,8 @@ public class Board {
 			if(of_a_kind>0){in_a_row++;}
 			else{in_a_row = 0;}
 			max_straight = Math.max(max_straight, of_a_kind);
+			max_of_a_kind = Math.max(max_of_a_kind, of_a_kind);
 		}
-		System.out.println(max_straight);
 		temp+=(max_straight*6);
 		
 		//Data from Suit variables
