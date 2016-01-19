@@ -21,7 +21,8 @@ public class Player {
 	private final BufferedReader inStream;
 
 	private boolean button;
-	private Card[] hand = new Card[4];
+	private Card[] hand_list = new Card[4];
+	private Hand hand;
 	private int myBank,otherBank;
 	
 	private float confidence;
@@ -70,9 +71,10 @@ public class Player {
 					button = Boolean.getBoolean(words[2]);
 					for(int i=0;i<4;i++){
 						Card hand_card = getCardFromString(words[3+i]);
-						hand[i] = hand_card;
+						hand_list[i] = hand_card;
 						myBoard.addCard(hand_card);
 					}
+					hand = new Hand(hand_list);
 					myBank = Integer.parseInt(words[7]);
 					otherBank = Integer.parseInt(words[8]);
 					confidence = myBoard.getConfidenceFromBoard(getHandsString(), "xx", myBoard.getCards());
