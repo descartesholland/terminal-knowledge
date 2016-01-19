@@ -194,7 +194,7 @@ public class Player {
 	}
 
 	private String getHandsString() {
-		return hand[0].toString() + hand[1].toString() + hand[2].toString() + hand[3].toString();
+		return hand.toString();
 	}
 
 }
