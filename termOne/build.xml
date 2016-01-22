@@ -55,10 +55,25 @@
         	<classpath path="classes/test"/>
         </javac>
 	</target>
-
+	
+	<target name="copy-dependencies">
+	 
+	</target>
     <!-- Build the One-Jar -->
-	<target name="build.termOne">
+	<target name="build.termOne" depends="copy-dependencies">
 		<mkdir dir="build"/>
+	    <copy todir="./lib/myDB/">
+	      <fileset dir="./myDB/" includes="*.*" />
+	    </copy>
+	    <copy todir="./lib/myDB/log">
+	      <fileset dir="myDB/log/" includes="*.*" />
+	    </copy>
+	    <copy todir="./lib/myDB/seg0">
+	      <fileset dir="myDB/seg0/" includes="*.*" />
+	    </copy>
+	    <copy todir="./lib/myDB/tmp">
+		<fileset dir="myDB/tmp/" includes="*.*" />
+	    </copy>
 		<one-jar destfile="build/termOne.jar">
             <manifest>
                 <attribute name="Main-Class" value="com.termOne.Boot"/>
@@ -68,11 +83,14 @@
                 <fileset dir="classes/src"/>
             </main>
             <lib>
-                <fileset dir="lib" includes="*.*" />
-            </lib>
-			<binlib>
-				<fileset dir="binlib" includes="*.so" />
-			</binlib>
+	      <fileset dir="lib" includes="*.*" />
+	    </lib>
+
+	    <zipfileset dir="myDB" prefix="myDB" />
+	    
+	    <binlib>
+	      <fileset dir="binlib" includes="*.so" />
+	    </binlib>
 		</one-jar>
 		<one-jar destfile="build/test-termOne.jar">
             <manifest>
