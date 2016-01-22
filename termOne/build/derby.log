@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jan 21 21:01:55 EST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0152-6711-0621-00000959b648 
+on database directory /home/descartes/Desktop/termOne/build/myDB with class loader com.simontuffs.onejar.JarClassLoader@5cad8086 
+Loaded from jar:file:/home/descartes/Desktop/termOne/build/termOne.jar!/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b17
+user.dir=/home/descartes/Desktop/termOne/build
+os.name=Linux
+os.arch=amd64
+os.version=3.19.0-43-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
