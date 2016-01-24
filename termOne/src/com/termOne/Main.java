@@ -8,7 +8,7 @@ import java.net.Socket;
 
 
 public class Main {
-	
+
 	private static final String USAGE = "Usage: pokerbot [-h HOST] PORT";
 
 	/**
@@ -28,7 +28,7 @@ public class Main {
 				System.out.println(String.format("Error: Invalid int value: %s", args[0]));
 				return null;
 			}
-		// -h HOST PORT
+			// -h HOST PORT
 		} else if (args.length == 3 && "-h".equals(args[0])) {
 			host = args[1];
 			try {
@@ -41,7 +41,7 @@ public class Main {
 			System.out.println(USAGE);
 			return null;
 		}
-		
+
 		try {
 			Socket socket = new Socket(host, port);
 			return socket;
@@ -50,16 +50,11 @@ public class Main {
 			return null;
 		}
 	}
-	
+
 	public static void main(String[] args) {
-	NativeLoader nl = new NativeLoader();
-	nl.loadLibrary("pbots_calc");
-//		try {    
-//		      NativeUtils.loadLibraryFromJar("/pokerbots/export/linux2/lib/libpbots_calc.so");   
-//		    } catch (IOException e) {    
-//		      e.printStackTrace(); // This is probably not the best way to handle exception :-)  
-//		    }    
-		
+		NativeLoader nl = new NativeLoader();
+		nl.loadLibrary("pbots_calc");
+
 		try {
 			// Socket which will connect to the engine.
 			Socket socket = parseArgsToSocket(args);
@@ -71,10 +66,10 @@ public class Main {
 			// Reader to read packets from engine
 			BufferedReader inStream = new BufferedReader(new InputStreamReader(
 					socket.getInputStream()));
-			
+
 			Player player = new Player(outStream, inStream);
 			player.run();
-			
+
 			socket.close();
 		} catch (IOException e) {
 			System.err.println(e.getMessage());

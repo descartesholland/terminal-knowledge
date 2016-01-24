@@ -21,27 +21,22 @@ public class Player {
 	private final BufferedReader inStream;
 
 	private boolean button;
-	private Card[] hand = new Card[4];
-	private Hand _hand;
+
+	private Hand hand;
 	private int myBank,otherBank;
 	
 	private float confidence;
 	private float maxConfidence;
 	
-	private DatabaseConnector dbc = new DatabaseConnector(false);
+	private DatabaseConnector dbc;
 	
 	public Player(PrintWriter output, BufferedReader input) {
 		this.outStream = output;
 		this.inStream = input;
+		dbc = new DatabaseConnector(false);
+		
 	}
 
-	private Card getCardFromString(String s){
-		return new Card(String.valueOf(s.charAt(0)),String.valueOf(s.charAt(1)));
-	}
-
-	
-	
-	
 	/**
 	 * 
 	 * @param raise "Raise:_____"
@@ -65,44 +60,38 @@ public class Player {
 
 				// Here is where you should implement code to parse the packets
 				// from the engine and act on it.
-				System.out.println(input);
+				System.out.println("INPUT:"+input);
 
 				String[] words = input.split(" ");
 				Board myBoard = new Board();
 
 				if ("NEWHAND".compareToIgnoreCase(words[0])==0) {
+					Card[] _hand = new Card[4];
 					button = Boolean.getBoolean(words[2]);
 					for(int i=0;i<4;i++){
-						Card hand_card = getCardFromString(words[3+i]);
-						hand[i] = hand_card;
-//						myBoard.addCard(hand_card);
+						Card hand_card = new Card(words[3+i]);
+						_hand[i] = hand_card;
 					}
-					_hand = new Hand(hand);
+					hand = new Hand(_hand);
 					myBank = Integer.parseInt(words[7]);
 					otherBank = Integer.parseInt(words[8]);
-//					for(String s : _hand.permute2CardHands())
-//						maxConfidence = Math.max(maxConfidence, myBoard.getConfidenceFromBoard( s.toLowerCase(), myBoard.getCards()));
 				}
 				else if ("GETACTION".compareToIgnoreCase(words[0]) == 0) {
-					// When appropriate, reply to the engine with a legal
-					// action.
+					// When appropriate, reply to the engine with a legal action.
 					// The engine will ignore all spurious packets you send.
-					// The engine will also check/fold for you if you return an
-					// illegal action.
+					// The engine will also check/fold for you if you return an illegal action.
 					int pot_size = Integer.parseInt(words[1]);
 					int num_board_cards = Integer.parseInt(words[2]);
-					Card[] board_cards = new Card[num_board_cards];
+					
 					//Get the cards on the board, if there are any
 					int index = 3;
 					if(num_board_cards!=0){
 						for(int i=0;i<num_board_cards;i++){
-							myBoard.addCard(getCardFromString(words[index+i]));
+							myBoard.addCard(new Card(words[index+i]));
 						}
 						index += num_board_cards;
 					}
 					
-//					for(String s : _hand.permute2CardHands())
-//						maxConfidence = Math.max(maxConfidence, myBoard.getConfidenceFromBoard( s.toLowerCase(), myBoard.getCards()));
 					//Throw away last actions (can change this later)
 					//Skips over the interactions in this game
 					index += Integer.parseInt(words[index])+1;
@@ -181,14 +170,14 @@ public class Player {
 					double random = Math.random();
 					System.out.println(bet.toString()+" "+raise.toString()+" "+new Boolean(check).toString()+" "+new Boolean(fold).toString());
 					//If very confident: biggest raise
-					confidence = dbc.lookup(dbc.tableName, "HAND_ID", _hand.toDatabaseString());
+					confidence = dbc.lookup(dbc.tableName, "HAND_ID", hand.toDatabaseString());
 					if(num_board_cards > 0) {
-						for(String s : _hand.permute2CardHands()){
+						for(String s : hand.permute2CardHands()){
 							confidence = Math.max(confidence, myBoard.getConfidenceFromBoard( s.toLowerCase(), myBoard.toString()));
 						}
 					}
 
-					System.out.println(confidence);
+					System.out.println("Confidence: "+confidence);
 					if(confidence>.6){
 						if(!raise.isEmpty()){
 							out = raise.get(raise.size()-1);
@@ -214,7 +203,6 @@ public class Player {
 						else if(fold){out = "FOLD";}
 					}
 					//If not confident : play 57% of hands OOP
-					//  
 					else if(!button && random>.56){
 						if(check){out = "CHECK";}
 						else if(call){out = "CALL";}
@@ -255,11 +243,4 @@ public class Player {
 			e.printStackTrace();
 		}
 	}
-
-	
-	
-	private String getHandsString() {
-		return hand[0].toString() + hand[1].toString() + hand[2].toString() + hand[3].toString();
-	}
-
 }

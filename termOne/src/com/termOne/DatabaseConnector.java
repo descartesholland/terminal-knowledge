@@ -3,17 +3,14 @@ package com.termOne;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
+import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 import java.sql.Statement;
-
-import org.apache.derby.impl.sql.execute.CreateConstraintConstantAction;
-
-import java.sql.ResultSetMetaData;
 
 
 public class DatabaseConnector
 {
-	private String dbURL = "jdbc:derby:myDB;create=true;";
+	private String dbURL = "jdbc:derby:lib/myDB;";// + System.getProperty("user.dir") + "/lib/myDB;create=true;";
 	static String tableName = "confidence_lookup9";
 	// jdbc Connection
 	private Connection conn = null;
@@ -44,14 +41,14 @@ public class DatabaseConnector
 		DatabaseConnector dbc = new DatabaseConnector(false);
 //		dbc.printTable(tableName);
 //		System.out.println(new Hand("2c3h4d5d").toDatabaseString());
-		System.out.println(dbc.lookup(tableName, "HAND_ID", new Hand("3c5cJcJd").toDatabaseString()));
+		System.out.println(dbc.lookup(tableName, "HAND_ID", new Hand("9cTc5d8h").toDatabaseString()));
 	}
 
 	private void createConnection()
 	{
 		try
 		{
-			Class.forName("org.apache.derby.jdbc.ClientDriver").newInstance();
+			Class.forName("org.apache.derby.jdbc.EmbeddedDriver").newInstance();
 			//Get a connection
 			conn = DriverManager.getConnection(dbURL); 
 		}
@@ -62,41 +59,35 @@ public class DatabaseConnector
 	}
 
 
-	private void shutdown()
-	{
-		try
-		{
+	public void shutdown() {
+		try {
 			if (stmt != null)
-			{
 				stmt.close();
-			}
-			if (conn != null)
-			{
+			if (conn != null) {
 				DriverManager.getConnection(dbURL + ";shutdown=true");
 				conn.close();
 			}           
 		}
-		catch (SQLException sqlExcept)
-		{
-
+		catch (SQLException sqlExcept){
+			System.out.println("Problems shutting down");
+			sqlExcept.printStackTrace();
 		}
 
 	}
 
 	public void insertRow(String hand, float confidence) {
-		try
-		{
+		try {
 			Statement statement = conn.createStatement();
 			statement.execute("insert into " + tableName + " values ('" +
 					hand + "', " + confidence + ")");
 			statement.close();
 		}
-		catch (SQLException sqlExcept)
-		{
+		catch (SQLException sqlExcept) {
 			sqlExcept.printStackTrace();
 		}
 	}
 	
+	@SuppressWarnings("unused")
 	private void printTable(String tableName) {
         try {
             Statement s = conn.createStatement();
@@ -116,8 +107,7 @@ public class DatabaseConnector
             results.close();
             s.close();
         }
-        catch (SQLException sqlExcept)
-        {
+        catch (SQLException sqlExcept) {
             sqlExcept.printStackTrace();
         }
     }
@@ -126,7 +116,7 @@ public class DatabaseConnector
 		float ans = 0;
 		try {
 			Statement s = conn.createStatement();
-			ResultSet results = s.executeQuery("SELECT * FROM " + tableName + " WHERE " + keyName + " = '" + key + "'");
+			ResultSet results = s.executeQuery("select * from " + tableName + " where " + keyName + " = '" + key + "'");
 			while(results.next()) {
 				ans = results.getFloat(2);
 				break;
@@ -136,21 +126,6 @@ public class DatabaseConnector
 		} catch(SQLException e) {
 			e.printStackTrace();
 		}
-		return ans;
-	}
-	
-	/**
-	 * For an inputted hand, returns a new hand String ensuring that 
-	 * the order in which suits appear follows the database standard 
-	 * of "clubs-->diamonds-->hearts-->spades". May change one or 
-	 * more cards' suits in rep to accomplish this, i.e.
-	 * 		suitify 2s3s4s5s returns 2c3c4c5c  
-	 * @param hand the String representation of the hand to suitify
-	 * @return a new String containing the suit-adjusted hand, ready 
-	 * to be looked up in the database.
-	 */
-	public static String suitify(String hand) {
-		String ans = new String(hand);
 		return ans;
 	}
 }

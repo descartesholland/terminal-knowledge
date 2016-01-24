@@ -17,6 +17,16 @@ public class Card implements Comparable<Card> {
 		value = getValue();
 	}
 
+	/**
+	 * Forms a Card based on a two-character input String with rank and suit
+	 * @param handString a two-character input String with rank as the first
+	 * character and suit as the second
+	 */
+	public Card(String handString) {
+		this.rank = String.valueOf(handString.charAt(0));
+		this.suit = String.valueOf(handString.charAt(1)).toLowerCase();
+	}
+
 	public String toString(){
 		return rank+suit;
 	}
@@ -35,21 +45,16 @@ public class Card implements Comparable<Card> {
 			value = val;
 		}
 		catch(NumberFormatException e){
-			if(rank.equalsIgnoreCase("T")){
+			if(rank.equalsIgnoreCase("T"))
 				value = 10;
-			}
-			else if(rank.equalsIgnoreCase("J")){
+			else if(rank.equalsIgnoreCase("J"))
 				value = 11;
-			}
-			else if(rank.equalsIgnoreCase("Q")){
+			else if(rank.equalsIgnoreCase("Q"))
 				value = 12;
-			}
-			else if(rank.equalsIgnoreCase("K")){
+			else if(rank.equalsIgnoreCase("K"))
 				value = 13;
-			}
-			else if(rank.equalsIgnoreCase("A")){
+			else if(rank.equalsIgnoreCase("A"))
 				value = 14;
-			}
 		}
 		return this.value;
 	}
@@ -60,6 +65,10 @@ public class Card implements Comparable<Card> {
 	
 	public String getSuit() {
 		return this.suit;
+	}
+	
+	public char getSuitChar() {
+		return this.suit.charAt(0);
 	}
 
 	

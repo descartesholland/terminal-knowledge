@@ -15,7 +15,7 @@ public class Board {
 	public ArrayList<Card> clubs = new ArrayList<Card>();
 	public ArrayList<Card> diamonds = new ArrayList<Card>();
 	ArrayList<String> cardList = new ArrayList<String>();
-	
+
 	public float confidence;
 
 	public Board(){
@@ -27,7 +27,7 @@ public class Board {
 		}
 		confidence = 0;
 	}
-	
+
 	public void addCard(Card new_card){
 		//Organize cards by numbers
 		board.get(new_card.getValue()).add(new_card);
@@ -35,21 +35,17 @@ public class Board {
 			board.get(1).add(new_card);
 		}
 		//Organize cards by suits
-		if(new_card.getSuit()=="h"){
+		if(new_card.getSuitChar()=='h')
 			hearts.add(new_card);
-		}
-		else if(new_card.getSuit()=="s"){
+		else if(new_card.getSuitChar()=='s')
 			spades.add(new_card);
-		}
-		else if(new_card.getSuit()=="c"){
+		else if(new_card.getSuitChar()=='c')
 			clubs.add(new_card);
-		}
-		else if(new_card.getSuit()=="d"){
+		else if(new_card.getSuitChar()=='d')
 			diamonds.add(new_card);
-		}
 		cardList.add(new_card.toString());
 	}
-	
+
 	public float getConfidenceFromBoardOld(){
 		int in_a_row = 0;
 		float temp = 0;
@@ -72,13 +68,13 @@ public class Board {
 			if(in_a_row > max_straight){max_straight = in_a_row;}
 		}
 		temp+=max_straight*6;
-		
+
 		//Data from Suit variables
 		int num_hearts = hearts.size();
 		int num_spades = spades.size();
 		int num_diamonds = spades.size();
 		int num_clubs = spades.size();
-		
+
 		int max_flush = Math.max(num_hearts, Math.max(num_spades, Math.max(num_diamonds, num_clubs)));
 		temp += Math.pow(4, max_flush);
 		confidence = temp;
@@ -94,15 +90,12 @@ public class Board {
 				dead = input[2];
 			}
 		}
-		
+
 		Results r = calc(input[0], board, dead, 2000);
-//		for (int i = 0; i < r.getSize(); i++) {
-//			System.out.println(r.getHands().get(i) + ":" + r.getEv().get(i));
-//		}
 		ans = r.getEv().get(0);
 		return (float) ans;
 	}
-	
+
 	public String getCards() {
 		String ans = "";
 		for(ArrayList<Card> cardList : this.board) {
@@ -112,7 +105,7 @@ public class Board {
 		}
 		return ans;
 	}
-	
+
 	public Results calc(String hands, String board, String dead,
 			int iters) {
 		Pointer<Pbots_calcResults> res = Pbots_calcLibrary.alloc_results();
@@ -128,7 +121,7 @@ public class Board {
 		Pbots_calcLibrary.free_results(res);
 		return results;
 	}
-	
+
 	public String toString(){
 		StringBuilder ans = new StringBuilder();
 		for(String s : this.cardList){

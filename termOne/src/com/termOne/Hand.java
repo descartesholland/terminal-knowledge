@@ -3,33 +3,17 @@ package com.termOne;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
-import java.util.LinkedHashMap;
-import java.util.Map.Entry;
 import java.util.Set;
 
 
 public class Hand {
-	//	private LinkedHashMap<Float, Card> order_by_val = new LinkedHashMap<Float, Card>();
-	private ArrayList<Card> cardList = new ArrayList<Card>();
-
-	private float getDecimalsFromSuit(String suit) {
-		assert(suit.length() == 1);
-		if(suit.equalsIgnoreCase("h"))
-			return 0.3f;
-		else if (suit.equalsIgnoreCase("s"))
-			return 0.4f;
-		else if(suit.equalsIgnoreCase("c"))
-			return 0.1f;
-		else if(suit.equalsIgnoreCase("d"))
-			return 0.2f;
-		return 0;
-	}
+	private ArrayList<Card> cardList;
 
 	public Hand(Card[] cards){
+		cardList = new ArrayList<Card>();
 		for(Card card : cards)
 			cardList.add(card);
 		Collections.sort(cardList);
-
 	}
 
 	public Hand(String handString) {
@@ -41,6 +25,13 @@ public class Hand {
 
 	}
 
+	/**
+	 * Returns a list of 2-card permutations of a 4-card hand
+	 * @return an array of Strings ready to be passed to the hand eval
+	 * library. All entries in the returned array have 2 card hands to be
+	 * able to be parsed by the libraries and are followed by ":xxx"
+	 * denoting the random hand.
+	 */
 	public String[] permute2CardHands() {
 		String RANDOM_HAND = ":xxx";
 		String[] ans = new String[6];
@@ -61,7 +52,7 @@ public class Hand {
 		return ans.toString();
 	}
 
-	public int get_num_suit(String hand, char c){
+	public static int get_num_suit(String hand, char c){
 		int temp = 0;
 		for(char i : hand.toCharArray()){
 			if(i==c){temp++;}
@@ -81,6 +72,7 @@ public class Hand {
 	 * @return a hand string suited to match the database's 
 	 * hand-saving hash of clubs->diamonds->hearts->spades
 	 */
+	@SuppressWarnings("serial")
 	public String toDatabaseString() {
 		ArrayList<Character> suits = new ArrayList<Character>() {{add('c'); add('d'); add('h'); add('s');}};
 		String ans = new String(this.toString());
@@ -97,8 +89,6 @@ public class Hand {
 		if(getMaxValueCard(seen) != null && getMaxValueCard(seen).getSuit().charAt(0) != max.getSuit().charAt(0)) {
 			max = getMaxValueCard(seen);
 			seen.add(max);
-			System.out.println(counter);
-			System.out.println(max.getSuit());
 			while (suits.indexOf(max.getSuit().charAt(0)) < counter) {
 				max = getMaxValueCard(seen);
 				seen.add(max);
@@ -118,13 +108,10 @@ public class Hand {
 				return ans;
 			}
 		}
-		//		seen.add(max);
 
 		if(getMaxValueCard(seen) != null && getMaxValueCard(seen).getSuit().charAt(0) != max.getSuit().charAt(0)) {
 			max = getMaxValueCard(seen);
 			seen.add(max);
-			System.out.println(counter);
-			System.out.println(max.getSuit());
 
 			while (suits.indexOf(max.getSuit().charAt(0)) < counter) {
 				max = getMaxValueCard(seen);
@@ -132,8 +119,6 @@ public class Hand {
 				if (max == null) {
 					return ans;
 				}
-
-
 			}
 			ans = ans.replace(max.getSuit().charAt(0), ' ');
 			ans = ans.replace(suits.get(counter), max.getSuit().charAt(0));
@@ -147,7 +132,6 @@ public class Hand {
 				return ans;
 			}
 		}
-		//		seen.add(max);
 
 		ans = new Hand(ans).toString();
 		int suitTracker = 1;
@@ -223,7 +207,7 @@ public class Hand {
 			}
 		}
 		if(card.equals(new Card('0', 's'))) {
-			System.out.println("0s");
+//			System.out.println("0s");
 			card = null;
 		}
 		return card;
