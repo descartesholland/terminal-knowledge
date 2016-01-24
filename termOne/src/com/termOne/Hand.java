@@ -74,6 +74,7 @@ public class Hand {
 	 */
 	@SuppressWarnings("serial")
 	public String toDatabaseString() {
+		System.out.println("toDatabaseString() input: " + this.toString());
 		ArrayList<Character> suits = new ArrayList<Character>() {{add('c'); add('d'); add('h'); add('s');}};
 		String ans = new String(this.toString());
 		int counter = 0;
@@ -134,6 +135,7 @@ public class Hand {
 		}
 
 		ans = new Hand(ans).toString();
+		System.out.println("Intermediary: " + ans);
 		int suitTracker = 1;
 		while(suitTracker < numDifferentSuits()) {
 			boolean temp = true;
@@ -156,7 +158,8 @@ public class Hand {
 			suitTracker++;
 		}
 		ans = new Hand(ans).toString();
-
+		System.out.println("Intermediary2: " + ans);
+		
 		int max_flush = 0;
 		char max_suit =' ';
 		for(char c : suits){

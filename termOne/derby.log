@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sat Jan 23 16:49:49 PST 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0152-711b-b63d-000002e8b840 
-on database directory C:\Users\android\workspace\TermOne\lib\myDB with class loader com.simontuffs.onejar.JarClassLoader@ad8086 
-Loaded from jar:file:/C:/Users/android/workspace/TermOne/build/termOne.jar!/lib/derby.jar
+Sun Jan 24 10:34:01 CST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0152-747c-2764-000002ecb1d8 
+on database directory C:\Users\android\Desktop\termK99\termOne\lib\myDB with class loader com.simontuffs.onejar.JarClassLoader@ad8086 
+Loaded from jar:file:/C:/Users/android/Desktop/termK99/termOne/build/termOne.jar!/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_66-b18
-user.dir=C:\Users\android\workspace\TermOne
+user.dir=C:\Users\android\Desktop\termK99\termOne
 os.name=Windows 8.1
 os.arch=x86
 os.version=6.3
